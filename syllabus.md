@@ -191,29 +191,41 @@ permalink: /syllabus/
 # Academic Dishonsty Policy
 Any student involved in cheating (provider or receiver) will receive a failing grade along with a report to the University Decipline office. If you don't have the time to help your friend, do not provide them with the answer. You will fail the course! Never, ever show your code or homework to anyone. 
 
-# Quizes
-Quizes will be held as the following table on 13:00 for half an hour and will be graded in GradeScope. 
+# Exams
+Quizes will be held as the following table on **13:00** for half an hour and will be graded in GradeScope. 
 
 <table border="1" style="width: 100%; text-align: center;">
+  <tr>
+    <th>ٍExam</th>
+    <th>Date</th>
+  </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Quiz 1</td>
-    <td>1403/07/24</td>
+    <td>1403/07/24 13:00-13:30</td>
   </tr>
-  <tr style="background-color: #1ABC9C;">
+  <tr style="background-color: #B2E0D6;">
     <td>Quiz 2</td>
-    <td>1403/08/13</td>
+    <td>1403/08/13 13:00-13:30</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Quiz 3</td>
-    <td>1403/08/27</td>
+    <td>1403/08/27 13:00-13:30</td>
   </tr>
-  <tr style="background-color: #1ABC9C;">
+  <tr style="background-color: #B2E0D6;">
     <td>Quiz 4</td>
-    <td>1403/09/18</td>
+    <td>1403/09/18 13:00-13:30</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
+    <td>Midterm</td>
+    <td>1403/09/22 09:00-12:00</td>
+  </tr>
+  <tr style="background-color: #B2E0D6;">
     <td>Quiz 5</td>
-    <td>1403/10/11</td>
+    <td>1403/10/11 13:00-13:30</td>
+  </tr>
+  <tr style="background-color: #FFB2A6;">
+    <td>Final</td>
+    <td>1403/10/30 09:00-12:00</td>
   </tr>
 </table>
 
@@ -226,6 +238,10 @@ Written and programming assignment submission are not accepted after the deadlin
 TA Classes will be held on Wednesday from 18:00 till 20:00 in room https://vc.sharif.edu/rabiee-ta.
 
 <table border="1" style="width: 100%; text-align: center;">
+  <tr>
+    <th>Date</th>
+    <th>Title</th>
+  </tr>
   <tr style="background-color: #e0f7fa;">
     <td>1403/07/18</td>
     <td>Part1</td>
