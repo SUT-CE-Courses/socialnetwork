@@ -1,7 +1,7 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Linear Algebra
+course_description: " This course covers matrix theory and linear algebra, emphasizing topics useful in other disciplines. Linear algebra is a branch of mathematics that studies systems of linear equations and the properties of matrices. The concepts of linear algebra are extremely useful in image processing, computer vision, data science, machine learning, bio-informatics, social networks, and neuroscience. Due to its broad range of applications, linear algebra is one of the most widely taught subjects in college-level mathematics."
+course_semester: "Spring 2024"
 
 baseurl: "/inearalgebra" # the subpath of your site, e.g. /blog/
 url: "http://sut-ce-courses.github.io/" # the base hostname & protocol for your site
