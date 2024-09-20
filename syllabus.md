@@ -7,13 +7,13 @@ permalink: /syllabus/
     <tr>
         <th>Date</th>
         <th>Title</th>
-        <th>Part Number</th>
+        <th>Part</th>
         <th>Description</th>
     </tr>
     <tr style="background-color:#ffff00">
         <td>1403/07/01</td>
         <td>S01</td>
-        <td rowspan="3">1</td>
+        <td rowspan="4">1</td>
         <td>Elementary Row Operations, and Linear Equations</td>
     </tr>
     <tr style="background-color:#ffff00">
@@ -29,38 +29,34 @@ permalink: /syllabus/
     <tr style="background-color:#ffff00">
         <td>1403/07/10</td>
         <td>S04</td>
-        <td></td>
         <td>Subspace</td>
     </tr>
     <tr style="background-color:#00ffff">
         <td>1403/07/15</td>
         <td>S05</td>
-        <td>2</td>
+        <td rowspan="5">2</td>
         <td>Independence (Linear and Affine)</td>
     </tr>
     <tr style="background-color:#00ffff">
         <td>1403/07/17</td>
         <td>S06</td>
-        <td></td>
-        <td></td>
+        <td>Independence (Linear and Affine)</td>
     </tr>
     <tr style="background-color:#00ffff">
         <td>1403/07/22</td>
         <td>S07</td>
-        <td></td>
         <td>Bases, Dimension</td>
     </tr>
     <tr style="background-color:#00ffff">
         <td>1403/07/24</td>
         <td>S08</td>
-        <td></td>
         <td>Dimension and Rank</td>
     </tr>
     <tr style="background-color:#00ffff">
         <td>1403/07/29</td>
         <td>S09</td>
-        <td></td>
-        <td></td>
+        <td>Dimension and Rank</td>
+        
     </tr>
     <tr style="background-color:#ff9999">
         <td>1403/08/01</td>
