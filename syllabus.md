@@ -3,7 +3,7 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
-<table style="text-align: center;">
+<table border="1" style="width: 100%; text-align: center;">
     <tr>
         <th>Date</th>
         <th>Session</th>
