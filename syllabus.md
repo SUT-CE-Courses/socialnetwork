@@ -21,12 +21,12 @@ permalink: /syllabus/
         <td>S02</td>
         <td>Row Reduction and Echelon Forms</td>
     </tr>
-    <tr style="background-color:#ffff00">
+    <tr style="background-color:#ffffe0">
         <td>1403/07/08</td>
         <td>S03</td>
         <td>Vector Space</td>
     </tr>
-    <tr style="background-color:#ffff00">
+    <tr style="background-color:#ffffe0">
         <td>1403/07/10</td>
         <td>S04</td>
         <td>Subspace</td>
@@ -79,33 +79,33 @@ permalink: /syllabus/
         <td>S13</td>
         <td>Orthogonality (Gram–Schmidt, etc.)</td>
     </tr>
-    <tr style="background-color:#ffcccb">
+    <tr style="background-color:#ffebcd">
         <td>1403/08/15</td>
         <td>S14</td>
         <td rowspan="6">4</td>
         <td>Linear Transformation</td>
     </tr>
-    <tr style="background-color:#ffcccb">
+    <tr style="background-color:#ffebcd">
         <td>1403/08/20</td>
         <td>S15</td>
         <td>Linear Transformation</td>
     </tr>
-    <tr style="background-color:#ffcccb">
+    <tr style="background-color:#ffebcd">
         <td>1403/08/22</td>
         <td>S16</td>
         <td>Change Basis</td>
     </tr>
-    <tr style="background-color:#ffcccb">
+    <tr style="background-color:#ffebcd">
         <td>1403/08/27</td>
         <td>S17</td>
         <td>Inverse</td>
     </tr>
-    <tr style="background-color:#ffcccb">
+    <tr style="background-color:#ffebcd">
         <td>1403/08/29</td>
         <td>S18</td>
         <td>Determinant</td>
     </tr>
-    <tr style="background-color:#ffcccb">
+    <tr style="background-color:#ffebcd">
         <td>1403/09/04</td>
         <td>S19</td>
         <td>Determinant</td>
@@ -131,12 +131,12 @@ permalink: /syllabus/
         <td>S23</td>
         <td>Diagonalization</td>
     </tr>
-    <tr style="background-color:#ccccff">
+    <tr style="background-color:#e6e6fa">
         <td>1403/09/20</td>
         <td>S24</td>
         <td>Matrix Factorization</td>
     </tr>
-    <tr style="background-color:#ffebcd">
+    <tr style="background-color:#ff6347">
         <td>1403/09/22</td>
         <td colspan="4" style="text-align: center;">Midterm Exam</td>
     </tr>
@@ -173,7 +173,7 @@ permalink: /syllabus/
         <td>S30</td>
         <td>Least squares</td>
     </tr>
-    <tr style="background-color:#ffebcd">
+    <tr style="background-color:#ff6347">
         <td>1403/10/30</td>
         <td colspan="4" style="text-align: center;">Final Exam</td>
     </tr>
