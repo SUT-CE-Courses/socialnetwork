@@ -3,6 +3,11 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
+<style>
+    .bold-text td, .bold-text th {
+        font-weight: bold;
+    }
+</style>
 <table border="1" style="width: 100%; text-align: center;">
     <tr>
         <th>Date</th>
