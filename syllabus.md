@@ -138,7 +138,7 @@ permalink: /syllabus/
     </tr>
     <tr style="background-color:#66ff66">
         <td>1403/09/22</td>
-        <td columnspan="3">Midterm Exam</td>
+        <td colspan="4" style="text-align: center;">Midterm Exam</td>
     </tr>
     <tr style="background-color:#ccccff">
         <td>1403/09/25</td>
@@ -149,38 +149,32 @@ permalink: /syllabus/
     <tr style="background-color:#ccccff">
         <td>1403/09/27</td>
         <td>S26</td>
-        <td>6</td>
+        <td rowspan="5">6</td>
         <td>Norm Space</td>
     </tr>
     <tr style="background-color:#ccccff">
         <td>1403/10/02</td>
         <td>S27</td>
-        <td></td>
-        <td>Derivatives (+Hessian)</td>
+        <td>Derivatives</td>
     </tr>
     <tr style="background-color:#ccccff">
         <td>1403/10/04</td>
         <td>S28</td>
-        <td></td>
-        <td></td>
+        <td>Derivatives</td>
+
     </tr>
     <tr style="background-color:#ccccff">
         <td>1403/10/09</td>
         <td>S29</td>
-        <td></td>
         <td>Least squares</td>
     </tr>
     <tr style="background-color:#ccccff">
         <td>1403/10/11</td>
         <td>S30</td>
-        <td></td>
-        <td></td>
     </tr>
     <tr style="background-color:#66ff66">
         <td>1403/10/30</td>
-        <td>Final Exam</td>
-        <td></td>
-        <td></td>
+        <td colspan="4" style="text-align: center;">Final Exam</td>
     </tr>
 </table>
 
