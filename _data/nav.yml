@@ -2,7 +2,11 @@ items:
 - url: /
   name: Home
   icon_class: fa fa-home fa-lg
-
+  
+- url: /syllabus/
+  name: Syllabus
+  icon_class: fas fa-user-graduate
+  
 - url: /schedule/
   name: Schedule
   icon_class: fas fa-calendar-alt
@@ -13,10 +17,6 @@ items:
 
 - url: /assignments/
   name: Assignments
-  icon_class: fas fa-user-graduate
-
-- url: /project/
-  name: Project
   icon_class: fas fa-user-graduate
 
 - url: /materials/
