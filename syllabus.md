@@ -6,9 +6,9 @@ permalink: /syllabus/
 <table style="text-align: center;">
     <tr>
         <th>Date</th>
-        <th>Title</th>
+        <th>Session</th>
         <th>Part</th>
-        <th>Description</th>
+        <th>Lecture Topic</th>
     </tr>
     <tr style="background-color:#ffff00">
         <td>1403/07/01</td>
