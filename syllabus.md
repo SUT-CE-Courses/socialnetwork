@@ -3,23 +3,27 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
-<table border="1">
+<table border="1" style="text-align: center;">
+    <tr>
+        <th>Date</th>
+        <th>Title</th>
+        <th>Part Number</th>
+        <th>Description</th>
+    </tr>
     <tr style="background-color:#ffff00">
         <td>1403/07/01</td>
         <td>S01</td>
-        <td>1</td>
+        <td rowspan="3">1</td>
         <td>Elementary Row Operations, and Linear Equations</td>
     </tr>
     <tr style="background-color:#ffff00">
         <td>1403/07/03</td>
         <td>S02</td>
-        <td></td>
         <td>Row Reduction and Echelon Forms</td>
     </tr>
     <tr style="background-color:#ffff00">
         <td>1403/07/08</td>
         <td>S03</td>
-        <td></td>
         <td>Vector Space</td>
     </tr>
     <tr style="background-color:#ffff00">
@@ -197,6 +201,7 @@ permalink: /syllabus/
         <td></td>
     </tr>
 </table>
+
 
 <table>
     <tr style="background-color: #f2f2f2;">
