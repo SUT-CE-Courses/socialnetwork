@@ -171,6 +171,7 @@ permalink: /syllabus/
     <tr style="background-color:#ccccff">
         <td>1403/10/11</td>
         <td>S30</td>
+        <td>Least squares</td>
     </tr>
     <tr style="background-color:#66ff66">
         <td>1403/10/30</td>
