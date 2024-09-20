@@ -4,6 +4,154 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
+<table>
+    <tr style="background-color: #f2f2f2;">
+        <th>Week</th>
+        <th>Saturday</th>
+        <th>Monday</th>
+        <th>Lecture Topic</th>
+        <th>HW Topic</th>
+        <th>HW Release</th>
+        <th>Occasion</th>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>1</td>
+        <td>6/31</td>
+        <td>7/02</td>
+        <td>-</td>
+        <td></td>
+        <td></td>
+        <td>University Orientation</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+        <td>2</td>
+        <td>7/7</td>
+        <td>7/09</td>
+        <td>Python: Intro</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>3</td>
+        <td>7/14</td>
+        <td>7/16</td>
+        <td>Python: Math/Input/Output/variables</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+        <td>4</td>
+        <td>7/21</td>
+        <td>7/23</td>
+        <td>Python: Loops/Condition/Stack/Scope</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>5</td>
+        <td>7/28</td>
+        <td>7/30</td>
+        <td>Python: Debug/Test/Hackathon Intro</td>
+        <td></td>
+        <td></td>
+        <td>Saturday Off</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+        <td>6</td>
+        <td>8/05</td>
+        <td>8/07</td>
+        <td>Hackathon Week</td>
+        <td></td>
+        <td></td>
+        <td>Sunday & Tuesday Off</td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>7</td>
+        <td>8/12</td>
+        <td>8/14</td>
+        <td>Python: Hackathon Presentation</td>
+        <td></td>
+        <td></td>
+        <td>Wednesday Off</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+        <td>8</td>
+        <td>8/19</td>
+        <td>8/21</td>
+        <td>Python: Turtle Graphics Physics</td>
+        <td></td>
+        <td></td>
+        <td>Basic Science Midterms</td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>9</td>
+        <td>8/26</td>
+        <td>8/28</td>
+        <td>Python: VPython, More Physics</td>
+        <td></td>
+        <td></td>
+        <td>Basic Science Midterms</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+        <td>10</td>
+        <td>9/03</td>
+        <td>9/05</td>
+        <td>Python: Matplotlib, Math Problems</td>
+        <td></td>
+        <td></td>
+        <td>Basic Science Midterms</td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>11</td>
+        <td>9/10</td>
+        <td>9/12</td>
+        <td>C: Input/Output/Syntax/VSCode/Debug</td>
+        <td>Redoing Python Problems in C</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+        <td>12</td>
+        <td>9/17</td>
+        <td>9/19</td>
+        <td>C: Unit Testing</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>13</td>
+        <td>9/24</td>
+        <td>9/26</td>
+        <td>C: Functions, Pointers, References</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+        <td>14</td>
+        <td>9/31</td>
+        <td>10/03</td>
+        <td>C: Using STL</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>15</td>
+        <td>10/08</td>
+        <td>10/10</td>
+        <td>C: Practice and Exam</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+
 # Schedule
 
 |Week|Saturday|Monday |    Lecture Topic                  | HW Topic                       |HW Release|Occasion|
