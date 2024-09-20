@@ -4,6 +4,135 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
+<table border="1">
+    <tr style="background-color:#ffcc00">
+        <td>1403/07/01</td>
+        <td>S01</td>
+        <td>1</td>
+        <td>Elementary Row Operations, and Linear Equations</td>
+        <td>T1</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color:#ffcc00">
+        <td>1403/07/03</td>
+        <td>S02</td>
+        <td>1</td>
+        <td>Row Reduction and Echelon Forms</td>
+        <td>P0</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color:#99ccff">
+        <td>1403/07/08</td>
+        <td>S03</td>
+        <td>1</td>
+        <td>Vector Space</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color:#99ccff">
+        <td>1403/07/10</td>
+        <td>S04</td>
+        <td>1</td>
+        <td>Subspace</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color:#ffff99">
+        <td>1403/07/15</td>
+        <td>S05</td>
+        <td>2</td>
+        <td>Independence (Linear and Affine)</td>
+        <td>T2</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color:#ffff99">
+        <td>1403/07/17</td>
+        <td>S06</td>
+        <td>2</td>
+        <td>Bases, Dimension</td>
+        <td>T1</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color:#ffcccc">
+        <td>1403/08/01</td>
+        <td>S10</td>
+        <td>3</td>
+        <td>Inner Product Space</td>
+        <td>T3</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color:#ffcccc">
+        <td>1403/08/06</td>
+        <td>S11</td>
+        <td>3</td>
+        <td>Euclidian Norm, Inequalities and Angle</td>
+        <td>T2</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color:#ffcc99">
+        <td>1403/08/13</td>
+        <td>S13</td>
+        <td>4</td>
+        <td>Orthogonality (Gram–Schmidt, etc.)</td>
+        <td>Q2</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color:#ffcc99">
+        <td>1403/08/15</td>
+        <td>S14</td>
+        <td>4</td>
+        <td>Linear Transformation</td>
+        <td>T4</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color:#ccccff">
+        <td>1403/09/06</td>
+        <td>S20</td>
+        <td>5</td>
+        <td>Eigenvectors and Eigenvalues</td>
+        <td>T5</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color:#ccccff">
+        <td>1403/09/09</td>
+        <td>S21</td>
+        <td>5</td>
+        <td>Singular Values and Singular Vectors</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color:#ccffcc">
+        <td>1403/09/22</td>
+        <td></td>
+        <td></td>
+        <td><strong>Midterm Exam</strong></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr style="background-color:#ccffcc">
+        <td>1403/10/30</td>
+        <td></td>
+        <td></td>
+        <td><strong>Final Exam</strong></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
 <table>
     <tr style="background-color: #f2f2f2;">
         <th>Week</th>
