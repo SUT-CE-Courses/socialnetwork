@@ -3,11 +3,7 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
-<style>
-    .bold-text td, .bold-text th {
-        font-weight: bold;
-    }
-</style>
+
 <table border="1" style="width: 100%; text-align: center;">
     <tr>
         <th>Date</th>
@@ -198,24 +194,24 @@ Any student involved in cheating (provider or receiver) will receive a failing g
 # Quizes
 Quizes will be held as the following table on 13:00 for half an hour and will be graded in GradeScope. 
 
-<table>
-  <tr style="background-color: #f0e68c;">
+<table border="1" style="width: 100%; text-align: center;">
+  <tr style="background-color: #FFB2A6;">
     <td>Quiz 1</td>
     <td>1403/07/24</td>
   </tr>
-  <tr style="background-color: #ffccff;">
+  <tr style="background-color: #1ABC9C;">
     <td>Quiz 2</td>
     <td>1403/08/13</td>
   </tr>
-  <tr style="background-color: #f0e68c;">
+  <tr style="background-color: #FFB2A6;">
     <td>Quiz 3</td>
     <td>1403/08/27</td>
   </tr>
-  <tr style="background-color: #ffccff;">
+  <tr style="background-color: #1ABC9C;">
     <td>Quiz 4</td>
     <td>1403/09/18</td>
   </tr>
-  <tr style="background-color: #f0e68c;">
+  <tr style="background-color: #FFB2A6;">
     <td>Quiz 5</td>
     <td>1403/10/11</td>
   </tr>
@@ -228,7 +224,8 @@ Written and programming assignment submission are not accepted after the deadlin
 
 # TA Classes
 TA Classes will be held on Wednesday from 18:00 till 20:00 in room https://vc.sharif.edu/rabiee-ta.
-<table>
+
+<table border="1" style="width: 100%; text-align: center;">
   <tr style="background-color: #e0f7fa;">
     <td>1403/07/18</td>
     <td>Part1</td>
