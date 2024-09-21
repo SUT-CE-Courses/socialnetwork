@@ -73,7 +73,7 @@ permalink: /syllabus/
     <tr style="background-color:#ffcccb">
         <td>1403/08/08</td>
         <td>S12</td>
-        <td>Euclidian Norm, Inequalities and Angle</td>
+        <td>Euclidean Norm, Inequalities and Angle</td>
     </tr>
     <tr style="background-color:#ffcccb">
         <td>1403/08/13</td>
