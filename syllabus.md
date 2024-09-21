@@ -139,7 +139,7 @@ permalink: /syllabus/
     </tr>
     <tr style="background-color:#ff6347">
         <td>1403/09/22</td>
-        <td colspan="4" style="text-align: center;">**Midterm Exam**</td>
+        <td colspan="4" style="text-align: center;">Midterm Exam</td>
     </tr>
     <tr style="background-color:#e6e6fa">
         <td>1403/09/25</td>
@@ -176,9 +176,15 @@ permalink: /syllabus/
     </tr>
     <tr style="background-color:#ff6347">
         <td>1403/10/30</td>
-        <td colspan="4" style="text-align: center;">**Final Exam**</td>
+        <td colspan="4" style="text-align: center;">Final Exam</td>
     </tr>
 </table>
+
+
+
+<br><br>
+
+<br><br>
 
 
 # Grading Policy
@@ -228,6 +234,12 @@ Quizes will be held as the following table on **13:00** for half an hour and wil
     <td>1403/10/30 09:00-12:00</td>
   </tr>
 </table>
+
+
+
+<br><br>
+
+<br><br>
 
 
 # Assignments
