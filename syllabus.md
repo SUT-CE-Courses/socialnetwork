@@ -235,7 +235,7 @@ Written and programming assignment submission are not accepted after the solutio
 
 
 # TA Classes
-TA Classes will be held on **Wednesday from 18:00 till 20:00** in room https://vc.sharif.edu/rabiee-ta.
+TA Classes will be held on Wednesday from 18:00 till 20:00 in room https://vc.sharif.edu/rabiee-ta.
 
 <table border="1" style="width: 100%; text-align: center;">
   <tr>
@@ -262,11 +262,11 @@ TA Classes will be held on **Wednesday from 18:00 till 20:00** in room https://v
     <td>1403/09/21</td>
     <td>Midterm</td>
   </tr>
-  <tr style="background-color: #C2C2C2;">
+  <tr style="background-color: #FFF3B3">
     <td>1403/10/05</td>
     <td>Part5</td>
   </tr>
-  <tr style="background-color: #e1bee7;">
+  <tr style="background-color: #F0E1E1;">
     <td>1403/10/29</td>
     <td>Final</td>
   </tr>
