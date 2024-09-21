@@ -183,7 +183,7 @@ permalink: /syllabus/
 
 
 # Grading Policy
-  * Quizes: 4 points (5 quizes each 0.75 points; the lowest score will be dropped)
+  * Quizes: 3 points (5 quizes each 0.75 points; the lowest score will be dropped)
   * Written Assignments: 5.6 points (each of the first four is 0.85 points, and each of the last two is 1.1 points)
   * Programming Assignments: 2.4 points (preliminary exercises: 0.4 points, and the next two exercises are each 1 points)
   * Midterm Exam: 5 points (Lectures part 1,2,3,4)
