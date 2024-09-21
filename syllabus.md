@@ -197,7 +197,7 @@ Quizes will be held as the following table on **13:00** for half an hour and wil
 <table border="1" style="width: 100%; text-align: center;">
   <tr>
     <th>ٍExam</th>
-    <th>Timeth>
+    <th>Time</th>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Quiz 1</td>
