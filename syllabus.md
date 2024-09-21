@@ -197,7 +197,7 @@ Quizes will be held as the following table on **13:00** for half an hour and wil
 <table border="1" style="width: 100%; text-align: center;">
   <tr>
     <th>ٍExam</th>
-    <th>Date</th>
+    <th>Timeth>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Quiz 1</td>
@@ -250,7 +250,7 @@ TA Classes will be held on Wednesday from 18:00 till 20:00 in room https://vc.sh
     <td>1403/08/09</td>
     <td>Part2</td>
   </tr>
-  <tr style="background-color: #e1bee7;">
+  <tr style="background-color: #F1C0D5;">
     <td>1403/08/23</td>
     <td>Part3</td>
   </tr>
@@ -258,11 +258,11 @@ TA Classes will be held on Wednesday from 18:00 till 20:00 in room https://vc.sh
     <td>1403/09/14</td>
     <td>Part4</td>
   </tr>
-  <tr style="background-color: #ffe0b2;">
+  <tr style="background-color: #E6B7E0;">
     <td>1403/09/21</td>
     <td>Midterm</td>
   </tr>
-  <tr style="background-color: #e0f7fa;">
+  <tr style="background-color: #C2C2C2;">
     <td>1403/10/05</td>
     <td>Part5</td>
   </tr>
