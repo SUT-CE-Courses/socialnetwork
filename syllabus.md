@@ -231,11 +231,11 @@ Quizes will be held as the following table on **13:00** for half an hour and wil
 
 
 # Assignments
-Written and programming assignment submission are not accepted after the deadline. If you are late, submit what you have and start working on the next assignment.
+Written and programming assignment submission are not accepted after the solution is released. If you are late, submit what you have and start working on the next assignment.
 
 
 # TA Classes
-TA Classes will be held on Wednesday from 18:00 till 20:00 in room https://vc.sharif.edu/rabiee-ta.
+TA Classes will be held on **Wednesday from 18:00 till 20:00** in room https://vc.sharif.edu/rabiee-ta.
 
 <table border="1" style="width: 100%; text-align: center;">
   <tr>
