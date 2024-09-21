@@ -182,11 +182,6 @@ permalink: /syllabus/
 
 
 
-<br><br>
-
-<br><br>
-
-
 # Grading Policy
   * Quizes: 4 points (5 quizes each 0.75 points; the lowest score will be dropped)
   * Written Assignments: 5.6 points (each of the first four is 0.85 points, and each of the last two is 1.1 points)
@@ -235,11 +230,6 @@ Quizes will be held as the following table on **13:00** for half an hour and wil
   </tr>
 </table>
 
-
-
-<br><br>
-
-<br><br>
 
 
 # Assignments
