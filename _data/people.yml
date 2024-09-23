@@ -9,7 +9,7 @@ instructors:
     webpage: maryam.ramezani@sharif.edu
 
 teaching_assistants:
-  - name: Mohammad Javad Ahmadpour
+  - name: MohammadJavad Ahmadpour
     profile_pic: /_images/pp/generic.jpg
     webpage: mohamadahmadpour1383@gmail.com
 
@@ -25,7 +25,7 @@ teaching_assistants:
     profile_pic: /_images/pp/generic.jpg
     webpage: Anajar13750@gmail.com
     
-  - name: Mohammad Aref Zarezade
+  - name: MohammadAref Zarezade
     profile_pic: /_images/pp/zarezade.jpg
     webpage: arefzarezade@gmail.com
     
@@ -49,7 +49,7 @@ teaching_assistants:
     profile_pic: /_images/pp/meskin.jpg
     webpage: asalmskin82@gmail.com 
     
-  - name: Mohammad Amin Abbasfar
+  - name: MohammadAmin Abbasfar
     profile_pic: /_images/pp/generic.jpg
     webpage: m.a.abbasfar@gmail.com
     
@@ -65,7 +65,7 @@ teaching_assistants:
     profile_pic: /_images/pp/ejome.jpg
     webpage: s.emad.emamjomeh@gmail.com
     
-  - name: Diba Hadi Esfangereh
+  - name: Diba Hadi 
     profile_pic: /_images/pp/generic.jpg
     webpage: diba.hadie@gmail.com
     
@@ -74,7 +74,7 @@ teaching_assistants:
     webpage: aridariuni@gmail.com
     
   - name: Mohammad Shafizade
-    profile_pic: /_images/pp/generic.jpg
+    profile_pic: /_images/pp/shafizade.jpg
     webpage: mohammadshafizd@gmail.com
     
   - name: Armin Khosravi
@@ -85,12 +85,12 @@ teaching_assistants:
     profile_pic: /_images/pp/generic.jpg
     webpage: ar.asgarian1389@gmail.com
     
-  - name: Amir Homayoon Sharifizade
+  - name: AmirHomayoon Sharifizade
     profile_pic: /_images/pp/generic.jpg
     webpage: a.h.sharifizade@gmail.com
     
   - name: Arshia Izadyari
-    profile_pic: /_images/pp/generic.jpg
+    profile_pic: /_images/pp/izadyari.jpg
     webpage: stevevisht@gmail.com
     
   - name: Alireza Mirrokni
@@ -108,6 +108,9 @@ teaching_assistants:
   - name: Shayan Shabani
     profile_pic: /_images/pp/shabani.jpg
     webpage: shayan.shabani5814@gmail.com
-     
+
+  - name: Mohammad Ghafouri
+    profile_pic: /_images/pp/ghafouri.jpg
+    webpage: 
 
     
