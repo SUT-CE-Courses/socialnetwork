@@ -4,17 +4,18 @@ title: Materials
 permalink: /materials/
 ---
 
-{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
+{% include image.html url="/_images/cover3.jpg" width=175 align="right" %}
 
 ## Book
 
-Alan Turing and Noam Chomsky: Very Famous Book
+Sheldon Axler, Linear Algebra Done Right, fourth edition, 2023
+
 
 ## Additional Course Materials
 
 * If you are not familiar with Python programming, use any online tutorial to get a handle of it.
-* [Material #1](http://www.example.com/): how a computer chess player thinks!
-* [Material #2](http://www.example.com/): how a computer chess player thinks!
-* [Material #3](http://www.example.com/): how a computer chess player thinks!
-* [Material #4](http://www.example.com/): how a computer chess player thinks!
-* [Material #5](http://www.example.com/): how a computer chess player thinks!
+* [Kenneth Hoffman and Ray A. Kunze.Linear Algebra. PHI Learning, 2004](): 
+* [Gilbert Strang. Introduction to Linear Algebra. Wellesley-Cambridge Press, 2016](): 
+* [David C. Lay, Steven R. Lay, and Judi J. McDonald.Linear Algebra and Its Applications. Pearson, 2016](): 
+* [Other textbooks and course materials](): anything additional
+

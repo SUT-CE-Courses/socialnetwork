@@ -188,12 +188,13 @@ permalink: /syllabus/
   * Programming Assignments: 2.4 points (preliminary exercises: 0.4 points, and the next two exercises are each 1 points)
   * Midterm Exam: 5 points (Lectures part 1,2,3,4)
   * Final Exam: 5 points (Lectures part 5,6) 
+  * Total Points: 21 points
 
 # Academic Dishonsty Policy
-Any student involved in cheating (provider or receiver) will receive a failing grade along with a report to the University Decipline office. If you don't have the time to help your friend, do not provide them with the answer. You will fail the course! Never, ever show your code or homework to anyone. 
+Any student involved in cheating (provider or receiver) will receive a failing grade along with a report to the University Discipline office. If you don't have the time to help your friend, do not provide them with the answer. You will fail the course! Never, ever show your code or homework to anyone. 
 
 # Exams
-Quizes will be held as the following table on **13:00** for half an hour and will be graded in GradeScope. 
+Quizzes will be held as the following table on **13:00** for half an hour and will be graded in GradeScope. 
 
 <table border="1" style="width: 100%; text-align: center;">
   <tr>

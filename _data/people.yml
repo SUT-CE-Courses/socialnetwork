@@ -1,19 +1,102 @@
 instructors:
-  - name: Albus Dumbledore
-    profile_pic: /_images/pp/dumbledore.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-  - name: Minerva McGonagall
-    profile_pic: /_images/pp/mcgonagall.jpg
+  - name: Hamid R. Rabiee
+    profile_pic: /_images/pp/rabiee.jpg
+    webpage: rabiee@sharif.edu
+  - name: Maryam Ramezani
+    profile_pic: /_images/pp/ramezani.jpg
+    webpage: maryam.ramezani@sharif.edu
 
 teaching_assistants:
-  - name: Harry Potter
-    profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+  - name: Mohammad Javad Ahmadpour
+    profile_pic: /_images/pp/generic.jpg
+    webpage: mohamadahmadpour1383@gmail.com
 
-  - name: Hermione Granger
-    profile_pic: /_images/pp/granger.jpg
-    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
+  - name: Mahdi Alinejad
+    profile_pic: /_images/pp/alinejad.jpg
+    webpage: mahdiali3804@gmail.com
 
-  - name: Ron Weasley
-    profile_pic: /_images/pp/weasley.jpg
-    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+  - name: Sadegh Mohammadian
+    profile_pic: /_images/pp/mohammadian.jpg
+    webpage: sadegh803211@gmail.com
+
+  - name: Ali Najar
+    profile_pic: /_images/pp/generic.jpg
+    webpage: Anajar13750@gmail.com
+    
+  - name: Mohammad Aref Zarezade
+    profile_pic: /_images/pp/zarezade.jpg
+    webpage: arefzarezade@gmail.com
+    
+  - name: Shahyan Baghayinejad
+    profile_pic: /_images/pp/baghaie.jpg
+    webpage: ShayanBagha82@gmail.com
+    
+  - name: Ali Ghasemzadeh
+    profile_pic: /_images/pp/generic.jpg
+    webpage: lyqasmzadh72@gmail.com
+    
+  - name: Radin Shahdaei
+    profile_pic: /_images/pp/shahdaei.jpg
+    webpage: radin.shahdaei@gmail.com
+    
+  - name: Nika Ghaderi
+    profile_pic: /_images/pp/ghaderi.jpg
+    webpage: nika.ghadery@gmail.com
+    
+  - name: Asal Meskin
+    profile_pic: /_images/pp/meskin.jpg
+    webpage: asalmskin82@gmail.com 
+    
+  - name: Mohammad Amin Abbasfar
+    profile_pic: /_images/pp/generic.jpg
+    webpage: m.a.abbasfar@gmail.com
+    
+  - name: Donya jafari
+    profile_pic: /_images/pp/generic.jpg
+    webpage: donyajfri111@gmail.com
+    
+  - name: Milad Hosseini
+    profile_pic: /_images/pp/generic.jpg
+    webpage: milad.hosseini532@sharif.edu
+    
+  - name: Emad Emamjomeh
+    profile_pic: /_images/pp/ejome.jpg
+    webpage: s.emad.emamjomeh@gmail.com
+    
+  - name: Diba Hadi Esfangereh
+    profile_pic: /_images/pp/generic.jpg
+    webpage: diba.hadie@gmail.com
+    
+  - name: Ariana Dariuni
+    profile_pic: /_images/pp/generic.jpg
+    webpage: aridariuni@gmail.com
+    
+  - name: Mohammad Shafizade
+    profile_pic: /_images/pp/generic.jpg
+    webpage: mohammadshafizd@gmail.com
+    
+  - name: Armin Khosravi
+    profile_pic: /_images/pp/khosravi.jpg
+    webpage: arminkhosravie@gmail.com
+    
+  - name: Alireza Asgarian
+    profile_pic: /_images/pp/generic.jpg
+    webpage: ar.asgarian1389@gmail.com
+    
+  - name: Amir Homayoon Sharifizade
+    profile_pic: /_images/pp/generic.jpg
+    webpage: a.h.sharifizade@gmail.com
+    
+  - name: Arshia Izadyari
+    profile_pic: /_images/pp/generic.jpg
+    webpage: stevevisht@gmail.com
+    
+  - name: Alireza Mirrokni
+    profile_pic: /_images/pp/mirrokni.jpg
+    webpage: alireza.mirrokni28@gmail.com
+    
+  - name: Mohammad Hosein Eslami
+    profile_pic: /_images/pp/generic.jpg
+    webpage: m20h03e@gmail.com
+    
+
