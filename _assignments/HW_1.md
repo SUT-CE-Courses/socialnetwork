@@ -2,6 +2,7 @@
 type: assignment
 date: 1403-07-01T4:00:00+4:30
 title: 'HW #1'
+description: Elementary Row Operations, Linear Equations, Vector Space and Subspace
 pdf: /static_files/assignments/asg.pdf
 attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
