@@ -30,7 +30,7 @@ layout: default
           {% for ins in site.data.people.instructors %}
           <div class="image--cover-container">
             <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
-            <p>{{ins.name}}</p>
+            <p><a href="mailto:{{ ta.webpage }}">{{ins.name}}</a></p>
             <p>{{ ins.caption }}</p> <!-- Display the caption here -->
           </div>
           {% endfor %}
@@ -47,7 +47,7 @@ layout: default
               <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
               <p><a href="mailto:{{ ta.webpage }}">{{ta.name}}</a></p>
             </div>
-            {% if forloop.index0 != 0 and forloop.index0 % 4 == 0 %}
+            {% if forloop.index0 != 0 and forloop.index0 % 3 == 0 %}
               </div><div class="row">
             {% endif %}
           {% endfor %}          
