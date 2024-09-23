@@ -41,15 +41,16 @@ layout: default
         <h2>Teaching Assistants</h2>
         <div class="profile-pic-gallary">
           <div class="row">
-            {% for i, ta in site.data.people.teaching_assistants %}
-              <div class="image--cover-container" style="width: 23%; margin: 1%;">
-                <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                <p><a href="mailto:{{ ta.webpage }}">{{ta.name}}</a></p> <!-- Update to mailto for email -->
-              </div>
-              {% if (i + 1) % 4 == 0 %}
-                </div><div class="row"> <!-- Close and open row every 4 TAs -->
-              {% endif %}
-            {% endfor %}
+            {% for ta in site.data.people.teaching_assistants %}
+            {% assign index = forloop.index %}
+            <div class="image--cover-container" style="width: 23%; margin: 1%;">
+              <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
+              <p><a href="mailto:{{ ta.webpage }}">{{ta.name}}</a></p>
+            </div>
+            {% if forloop.index0 != 0 and forloop.index0 % 4 == 0 %}
+              </div><div class="row">
+            {% endif %}
+          {% endfor %}          
           </div>
         </div>
       </div>
