@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 1403-07-01T8:00:00+4:30
-title: 0_Introduction
-#tldr: ""
+title: Introduction
+tldr: "Course's policies and introduction to Syllabus"
 thumbnail: /static_files/presentations/lec1.jpg
 links: 
     #- url: /static_files/presentations/lec.zip
