@@ -9,7 +9,7 @@ links:
     #  name: notes
     #- url: /static_files/presentations/code.zip
     #  name: codes
-    - url: /static_files/presentations/lec/0-Introduction.pptx
+    - url: /static_files/presentations/lec/0-Introduction.pdf
       name: slides
 ---
 
