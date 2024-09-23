@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 1403-07-01T8:00:00+4:30
-title: Introduction
+title: Elementary Row Operations
 tldr: "Vector Operation, Matrix Multiplication, Elementary Row Operations, Elementary Matrices"
 thumbnail: /static_files/presentations/lec1.jpg
 links: 
