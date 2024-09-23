@@ -1,11 +1,11 @@
 instructors:
   - name: Hamid R. Rabiee
     profile_pic: /_images/pp/rabiee.jpg
-    caption: Full Professor, Computer Engineering Dept, Office CE804, CE803, and CE802
+    caption: Full Professor, CE804
     webpage: rabiee@sharif.edu
   - name: Maryam Ramezani
     profile_pic: /_images/pp/ramezani.jpg
-    caption: PhD, Guest Lecturer, Office CE803 and CE802
+    caption: Lecturer, CE803
     webpage: maryam.ramezani@sharif.edu
 
 teaching_assistants:

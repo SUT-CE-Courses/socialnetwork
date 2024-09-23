@@ -1,7 +1,7 @@
 ---
 type: assignment
-date: 1403-07-01T0:00:00+4:30
-title: 'HW #1'
+date: 1403-07-01T4:00:00+4:30
+title: 'Theorical HW #1'
 description: Elementary Row Operations, Linear Equations, Vector Space and Subspace
 pdf: /static_files/assignments/HW1.pdf
 #attachment: /static_files/assignments/asg.zip
