@@ -1,6 +1,6 @@
 ---
 type: quiz
-date: 1403-08-27T8:0:0+4:30
+date: 1403-08-27T13:0:0+4:30
 description: 'Quiz 3'
 hide_from_announcments: true
 ---
