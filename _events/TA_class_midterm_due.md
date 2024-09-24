@@ -1,7 +1,7 @@
 ---
 type: raw_event
 name: TA Class
-date: 1403-09-21T18:00:00+4:30
+date: 1403-09-21T18:00:00+0:00
 description: Midterm TA class
 
 # optional
