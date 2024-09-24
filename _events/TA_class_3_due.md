@@ -1,7 +1,7 @@
 ---
 type: raw_event
 name: TA Class
-date: 1403-08-23T18:00:00+4:30
+date: 1403-08-23T18:00:00+0:00
 description: Part three TA class
 
 # optional
