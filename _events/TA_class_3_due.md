@@ -13,5 +13,4 @@ hide_time: false
 hide_from_announcments: true
 ---
 <!-- you can create custom content using markdown. this section will be placed in "Course Materials (in schedule section)" -->
-## Hello
 TA Classes will be held on Wednesday from 18:00 till 20:00 in room https://vc.sharif.edu/rabiee-ta.
