@@ -43,7 +43,7 @@ layout: default
           <div class="row">
             {% for ta in site.data.people.teaching_assistants %}
             {% assign index = forloop.index %}
-            <div class="image--cover-container" style="width: 30%;">
+            <div class="image--cover-container" style="width: 40%;">
               <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
               <p><a href="mailto:{{ ta.webpage }}">{{ta.name}}</a></p>
             </div>
