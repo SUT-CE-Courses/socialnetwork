@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 1403-07-01T8:00:7+4:30
+date: 1403-07-08T8:00:07+4:30
 title: Vector Space
 tldr: "Field, Vector Space, Linear Combination, Span-Linear Hull"
 thumbnail: /static_files/presentations/lec3.jpg
