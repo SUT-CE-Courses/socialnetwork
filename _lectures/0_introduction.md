@@ -11,4 +11,6 @@ links:
     #  name: codes
     - url: /static_files/presentations/0-Introduction.pdf
       name: slides
+hide_from_announcments: true
+
 ---
