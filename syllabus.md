@@ -275,4 +275,5 @@ TA Classes will be held on Wednesday from 18:00 till 20:00 in room https://vc.sh
   </tr>
 </table>
 
-
+# Site
+You can find all resources and announsments of course on jabrekh.ir
