@@ -9,5 +9,6 @@ links:
       name: slides
     - url: /static_files/presentations/3-notes.zip
       name: notes  
+hide_from_announcments: true
 ---
 
