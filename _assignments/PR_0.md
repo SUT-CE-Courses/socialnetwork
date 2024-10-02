@@ -3,7 +3,7 @@ type: assignment
 title: 'Practical HW #0'
 date: 1403-07-09T4:30:00+4:30
 description: Practical 0
-#pdf: /static_files/assignments/HW1.pdf
+pdf: /static_files/assignments/PR0.pdf
 attachment: /static_files/assignments/PR_0.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
 #due_event: 
@@ -13,4 +13,4 @@ attachment: /static_files/assignments/PR_0.zip
 ---
 Three parts consisted of K-Means, Plotting, Convolution<br>
 Released On 1403/07/09<br>
-PR #0 Deadline : 1403/07/30
+PR #0 Deadline : 1403/07/28
