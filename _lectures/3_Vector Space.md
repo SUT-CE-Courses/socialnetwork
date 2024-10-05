@@ -7,7 +7,7 @@ thumbnail: /static_files/presentations/lec3.jpg
 links: 
     - url: /static_files/presentations/3-Vector Space.pdf
       name: slides
-    - url: /static_files/presentations/3-notes.zip
+    - url: /static_files/presentations/3-notes.pdf
       name: notes  
 hide_from_announcments: true
 ---
