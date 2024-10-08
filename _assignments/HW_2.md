@@ -1,6 +1,6 @@
 ---
 type: assignment
-title: 'Theorical HW #1'
+title: 'Theorical HW #2'
 date: 1403-07-17T4:30:00+4:30
 description: Independence, Basis and Dimension, Rank
 pdf: /static_files/assignments/HW2.pdf
