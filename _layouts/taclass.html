@@ -5,29 +5,29 @@ layout: page
 {{ content }}
 
 <ul id="archive">
-{% for lecture in site.taclass %}
+{% for taclass in site.taclass %}
 <li class="archiveposturl" style="background: transparent">
-<div class="lecture-container">
-    {% if lecture.thumbnail %}
+<div class="taclass-container">
+    {% if taclass.thumbnail %}
     <div class="thumbnail">
-      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('{{ lecture.thumbnail | prepend: site.baseurl }}');">
-        <img src="{{ lecture.thumbnail | prepend: site.baseurl }}"/>
+      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('{{ taclass.thumbnail | prepend: site.baseurl }}');">
+        <img src="{{ taclass.thumbnail | prepend: site.baseurl }}"/>
       </div>
     </div>
     {% endif %}
     <div class="content">
-        <span style="font-weight: bold;">{{ lecture.title }}</span><br>
+        <span style="font-weight: bold;">{{ taclass.title }}</span><br>
 
-        <strong>tl;dr:</strong> {{ lecture.tldr }}
+        <strong>tl;dr:</strong> {{ taclass.tldr }}
         <br/>
         <strong>
-        {% include lecture_links.html lecture=lecture %}
+        {% include taclass_links.html taclass=taclass %}
         </strong>
 
-        {% if lecture.content != '' %}
+        {% if taclass.content != '' %}
         <br/>
         <div class="markdown-content" style="margin-top: 3px;">
-        {{ lecture.content }}
+        {{ taclass.content }}
         </div>
         {% endif %}
     </div>
