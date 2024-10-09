@@ -20,11 +20,11 @@ layout: page
 
         <strong>tl;dr:</strong> {{ taclass.tldr }}
         <br/>
-        <strong>
+        <!-- <strong>
         {% include taclass_links.html taclass=taclass %}
-        </strong>
+        </strong> -->
 
-        {% if taclass.content != '' %}
+        {% if taclass.content %}
         <br/>
         <div class="markdown-content" style="margin-top: 3px;">
         {{ taclass.content }}
