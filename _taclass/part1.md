@@ -2,15 +2,13 @@
 type: taclass
 date: 1403-07-01T8:00:00+4:30
 title: Part01
-tldr: "Course's policies and introduction to Syllabus"
-thumbnail: /static_files/presentations/lec0.jpg
+tldr: "Elementary Row Operations, Echelon Forms and Row Reduction, Equation, Vector Space, Subspace"
+thumbnail: /static_files/taclass/p1.jpg
 links: 
-    #- url: /static_files/presentations/lec.zip
-    #  name: notes
-    #- url: /static_files/presentations/code.zip
-    #  name: codes
-    - url: /static_files/taclass/a.txt
-      name: Questions
-hide_from_announcments: true
+    - url: /static_files/taclass/Hallet_1.pdf
+      name: Question
+    - url: /static_files/taclass/part1.mp4
+      name: Video
+hide_from_announcments: false
 
 ---
