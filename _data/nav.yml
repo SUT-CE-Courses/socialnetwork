@@ -19,7 +19,7 @@ items:
   name: Assignments
   icon_class: fas fa-user-graduate
 
-- url: /tAclass/
+- url: /taclass/
   name: TA Class
   icon_class: fas fa-user-graduate
 
