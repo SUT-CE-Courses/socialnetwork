@@ -1,5 +1,5 @@
 ---
-layout: talcass
+layout: taclass
 title: TA Class
 permalink: /taclass/
 ---
