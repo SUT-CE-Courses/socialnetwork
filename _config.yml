@@ -42,7 +42,9 @@ collections:
         output: true
     announcements:
         output: false
-
+    taclass:
+        output: true
+    
 
 defaults:
   - scope:
