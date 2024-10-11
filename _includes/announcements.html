@@ -1,5 +1,6 @@
 {% assign all_events = site.events | concat: site.lectures %}
 {% assign all_events = all_events | concat: site.assignments %}
+{% assign all_events = site.events | concat: site.taclass %}
 
 {% assign events_to_show = "" | split: "" %}
 {% for e in all_events %}
@@ -21,6 +22,9 @@
             {% if n.type == 'lecture' %}
                 New Lecture is up: {{ n.title }}
                 {% include lecture_links.html lecture=n %}
+            {% if n.type == 'taclass' %}
+                New TA Class is up: {{ n.title }}
+                {% include taclass_links.html taclass=n %}
             {% elsif n.type == 'assignment' %}
                 New Assignment released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
             {% else%}
