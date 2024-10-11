@@ -10,7 +10,7 @@ pdf: /static_files/assignments/HW1.pdf
 #    type: due
 #    date: 1403-07-22T23:59:00+4:30
 #    description: 'HW #1 deadline'
-hide_from_announcments: true
+hide_from_announcments: false
 ---
 Elementary Row Operations, Linear Equations, Vector Space and Subspace<br>
 Released On 1403/07/01<br>
