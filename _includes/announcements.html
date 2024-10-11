@@ -22,7 +22,7 @@
             {% if n.type == 'lecture' %}
                 New Lecture is up: {{ n.title }}
                 {% include lecture_links.html lecture=n %}
-            {% if n.type == 'taclass' %}
+            {% elsif n.type == 'taclass' %}
                 New TA Class is up: {{ n.title }}
                 {% include taclass_links.html taclass=n %}
             {% elsif n.type == 'assignment' %}
