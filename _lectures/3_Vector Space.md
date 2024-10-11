@@ -9,6 +9,8 @@ links:
       name: slides
     - url: /static_files/presentations/3-notes.pdf
       name: notes  
+    - url: /static_files/books/VectorSpace-Haffman.rar
+      name: Haffman Book  
 hide_from_announcments: true
 ---
 
