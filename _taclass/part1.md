@@ -9,5 +9,5 @@ links:
       name: Question
     - url: /static_files/taclass/part1.mp4
       name: Video
-hide_from_announcments: true
+hide_from_announcments: false
 ---
