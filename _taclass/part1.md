@@ -7,7 +7,8 @@ thumbnail: /static_files/taclass/p1.jpg
 links: 
     - url: /static_files/taclass/Hallet_1.pdf
       name: Question
-    - url: /static_files/taclass/part1.mp4
+    - url: "https://drive.google.com/file/d/1izdSikmjcwAcbGxsXlo-VPBHD6Ma8iOr/view?usp=drive_link"
       name: Video
 hide_from_announcments: false
+
 ---
