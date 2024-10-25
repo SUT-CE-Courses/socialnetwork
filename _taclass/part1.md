@@ -9,6 +9,6 @@ links:
       name: Question
     - url: "https://drive.google.com/file/d/1izdSikmjcwAcbGxsXlo-VPBHD6Ma8iOr/view?usp=drive_link"
       name: Video
-hide_from_announcments: false
+hide_from_announcments: true
 
 ---
