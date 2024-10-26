@@ -12,5 +12,5 @@ pdf: /static_files/assignments/HW3.pdf
 #    description: 'HW #1 deadline'
 ---
 Inner Product Space, Norm and Inequalities, Orthogonality<br>
-Released On 1403/08/05<br>
-HW #2 Deadline : 1403/08/22
+Released On 1403/08/04<br>
+HW #2 Deadline : 1403/08/25
