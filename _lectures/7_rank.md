@@ -10,7 +10,7 @@ links:
     - url: "https://drive.google.com/file/d/16CfEqmWL1uYheFs4Y08t0QbX0Z77KbrB/view"
       name: video-v1 
     - url: "https://drive.usercontent.google.com/download?id=1Tfb66NIWHOzjRkaklzKnnhK8EhmXMVOG&export=download&authuser=0"
-      name: video-vw 
+      name: video-v2
 hide_from_announcments: true
 ---
 
