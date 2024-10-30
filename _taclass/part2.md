@@ -7,7 +7,7 @@ tldr: "Independence (Linear and Affine)Bases, Dimension and Rank"
 links: 
     - url: /static_files/taclass/Hallet_2.pdf
       name: Question
-   # - url: "https://drive.google.com/file/d/1izdSikmjcwAcbGxsXlo-VPBHD6Ma8iOr/view?usp=drive_link"
+    - url: "https://drive.google.com/file/d/1Da0_CWzLGSK7z3LGOu4BsI672anqmSXx/view?usp=sharing"
    #  name: Video
 hide_from_announcments: false
 
