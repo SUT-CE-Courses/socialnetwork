@@ -8,7 +8,7 @@ links:
     - url: /static_files/taclass/Hallet_2.pdf
       name: Question
     - url: "https://drive.google.com/file/d/1Da0_CWzLGSK7z3LGOu4BsI672anqmSXx/view?usp=sharing"
-   #  name: Video
+     name: Video
 hide_from_announcments: false
 
 ---
