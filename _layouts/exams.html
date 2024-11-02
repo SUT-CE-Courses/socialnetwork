@@ -1,0 +1,35 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<ul id="archive">
+{% for exam in site.exams %}
+<li class="archiveposturl" style="background: transparent">
+<div class="lecture-container">
+    {% if exam.thumbnail %}
+    <div class="thumbnail">
+      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('{{ exam.thumbnail | prepend: site.baseurl }}');">
+        <img src="{{ exam.thumbnail | prepend: site.baseurl }}"/>
+      </div>
+    </div>
+    {% endif %}
+    <div class="content">
+        <span style="font-weight: bold;">{{ exan.title }}</span><br>
+        <br/>
+        <strong>
+        {% include exam_links.html exam=exam %}
+        </strong>
+
+        {% if exam.content != '' %}
+        <br/>
+        <div class="markdown-content" style="margin-top: 3px;">
+        {{ exam.content }}
+        </div>
+        {% endif %}
+    </div>
+</div>
+</li>
+{% endfor %}
+</ul>
