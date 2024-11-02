@@ -1,7 +1,7 @@
 ---
 type: taclass
 date: 1403-07-02T8:00:00+4:30
-title: Part02 
+title: Part02 by Alireza Asgarian 
 tldr: "Independence (Linear and Affine)Bases, Dimension and Rank"
 thumbnail: /static_files/taclass/p1.jpg
 links: 
