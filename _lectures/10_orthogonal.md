@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 1403-08-09T8:00:07+4:30
+date: 1403-08-09T12:00:07+4:30
 title: Orthoganality
 tldr: "Orthogonality, Gram–Schmidt Algorithm, Orthogonal Complements, Projection"
 thumbnail: /static_files/presentations/lec10.jpg
