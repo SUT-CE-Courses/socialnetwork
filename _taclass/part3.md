@@ -9,8 +9,8 @@ links:
       name: Question
     #- url: /static_files/taclass/Hallet_2_sol.pdf
     #  name: Solution  
-    #- url: "https://drive.google.com/file/d/1Da0_CWzLGSK7z3LGOu4BsI672anqmSXx/view?usp=sharing"
-    #  name: Video
+    - url: "https://drive.google.com/file/d/1eXslvL9OUadMZ1XHe-rDgzG2p-2ZuWw3/view?usp=sharing"
+      name: Video
 hide_from_announcments: false
 
 ---
