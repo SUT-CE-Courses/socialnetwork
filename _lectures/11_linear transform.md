@@ -7,7 +7,7 @@ thumbnail: /static_files/presentations/lec11.jpg
 links: 
     - url: /static_files/presentations/11-Linear Transformation.pdf
       name: slides
-    - url: /static_files/presentations/11-notes.pdf
+    - url: /static_files/presentations/11-Notes.pdf
       name: notes  
 hide_from_announcments: true
 ---
