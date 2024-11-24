@@ -7,8 +7,8 @@ thumbnail: /static_files/presentations/lec11.jpg
 links: 
     - url: /static_files/presentations/12-Change of Basis.pdf
       name: slides
-    #- #url: /static_files/presentations/11-notes.pdf
-      #name: notes  
+    - url: "https://drive.google.com/file/d/1PgygAzU7VIx8-UvGKiwhGYvJtw3P0bwB/view?usp=sharing"
+      name: video  
 hide_from_announcments: true
 ---
 
