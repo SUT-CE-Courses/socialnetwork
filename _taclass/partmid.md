@@ -7,10 +7,10 @@ thumbnail: /static_files/taclass/p1.jpg
 links: 
     - url: /static_files/taclass/Hallet_mid.pdf
       name: Question
-    #- url: /static_files/taclass/Hallet_4_sol.pdf
-    #  name: Solution  
-    #- url: "https://drive.google.com/file/d/1eXslvL9OUadMZ1XHe-rDgzG2p-2ZuWw3/view?usp=sharing"
-    #  name: Video
-hide_from_announcments: true
+    - url: /static_files/taclass/Hallet_mid_sol.pdf
+      name: Solution  
+    - url: "https://drive.google.com/file/d/1PrbXVssFN_gtPFQvOdweAAwb5XfnsF7o/view?usp=sharing"
+     name: Video
+hide_from_announcments: false
 
 ---
