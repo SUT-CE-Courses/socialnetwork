@@ -5,7 +5,7 @@ title: Eigenvectors, Eigenvalues, Diagonalization
 tldr: "Eigenvectors, Eigenvalues, Diagonalization"
 thumbnail: /static_files/presentations/lec13.jpg
 links: 
-    - url: /static_files/presentations/15-Eigenvectors-Eigenvalues-Diagonalization
+    - url: /static_files/presentations/15-Eigenvectors-Eigenvalues-Diagonalization.pdf
       name: slides
     #- url: /static_files/presentations/14-Notes.pdf
     #  name: notes  
