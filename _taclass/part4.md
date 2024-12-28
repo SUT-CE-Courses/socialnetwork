@@ -14,6 +14,6 @@ links:
     - url: "https://drive.google.com/file/d/14DW7Hr502RIjmOJ65HwJNxjK4OLSKdRU/view?usp=sharing"
       name: Video part two
 
-hide_from_announcments: false
+hide_from_announcments: true
 
 ---
