@@ -11,6 +11,6 @@ links:
     #  name: Solution  
     - url: "https://drive.google.com/file/d/1eXslvL9OUadMZ1XHe-rDgzG2p-2ZuWw3/view?usp=sharing"
       name: Video
-hide_from_announcments: false
+hide_from_announcments: true
 
 ---
