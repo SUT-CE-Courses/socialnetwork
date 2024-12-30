@@ -1,7 +1,7 @@
 ---
 type: taclass
 date: 1403-07-06T8:00:00+4:30
-title: Part04 by Mohammad Ghafouri
+title: Part05 by Mohammad Ghafouri
 tldr: "Eigenvectors and Eigenvalues, Singular Values and Singular Vectors, Symmetric Matrices and Quadratic Forms, Diagonalization, Matrix Factorization, SVD"
 thumbnail: /static_files/taclass/p1.jpg
 links: 
@@ -9,8 +9,8 @@ links:
       name: Question
     #- url: /static_files/taclass/Hallet_4_sol.zip
     #  name: Solution  
-    #- url: "https://drive.google.com/file/d/1xqxcO9qM9oHFnMx-1fVZT5PK-TPfQiAQ/view?usp=share_link"
-    #  name: Video part one
+    - url: "https://drive.google.com/drive/folders/1bZw5VMYy9ARgo44R6n4fh5wRfg72Kxik?usp=sharing"
+      name: Video and solution
     #- url: "https://drive.google.com/file/d/14DW7Hr502RIjmOJ65HwJNxjK4OLSKdRU/view?usp=sharing"
     #  name: Video part two
 
