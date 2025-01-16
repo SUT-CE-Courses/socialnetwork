@@ -12,6 +12,7 @@ attachment: /static_files/assignments/PR_1.zip
 #    description: 'HW #1 deadline'
 hide_from_announcments: false
 ---
+hide_from_announcments: true
 Three parts consisted of Factorization, SVD, ICA<br>
 Released On 1403/09/04<br>
 PR #0 Deadline : 1403/09/30
