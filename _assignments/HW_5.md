@@ -11,6 +11,7 @@ pdf: /static_files/assignments/HW5.pdf
 #    date: 1403-07-22T23:59:00+4:30
 #    description: 'HW #1 deadline'
 ---
+hide_from_announcments: true
 Eigenvectors and Eigenvalues, Singular Values and Singular Vectors, Symmetric Matrices and Quadratic Forms, Diagonalization, Matrix Factorization, SVD<br>
 Released On 1403/09/07<br>
 HW #5 Deadline : 1403/10/07
