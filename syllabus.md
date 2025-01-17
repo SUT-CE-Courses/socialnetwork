@@ -187,7 +187,7 @@ permalink: /syllabus/
   * Written Assignments: 5.6 points (each of the first four is 0.85 points, and each of the last two is 1.1 points)
   * Programming Assignments: 2.4 points (preliminary exercises: 0.4 points, and the next two exercises are each 1 points)
   * Midterm Exam: 5 points (Lectures part 1,2,3,4)
-  * Final Exam: 5 points (Lectures part 5,6) 
+  * Final Exam: 5 points (Lectures part 4(Determinant),5,6) 
   * Total Points: 21 points
 
 # Academic Dishonsty Policy
