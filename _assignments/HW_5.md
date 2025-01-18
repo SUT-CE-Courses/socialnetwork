@@ -5,7 +5,7 @@ date: 1403-09-07T4:30:00+4:30
 description: Eigenvectors and Eigenvalues, Singular Values and Singular Vectors, Symmetric Matrices and Quadratic Forms, Diagonalization, Matrix Factorization, SVD
 pdf: /static_files/assignments/HW5.pdf
 #attachment: /static_files/assignments/asg.zip
-#solutions: /static_files/assignments/LA_Fall_2024_HW5-sol.pdf
+solutions: /static_files/assignments/LA_Fall_2024_HW5-sol.pdf
 #due_event: 
 #    type: due
 #    date: 1403-07-22T23:59:00+4:30
