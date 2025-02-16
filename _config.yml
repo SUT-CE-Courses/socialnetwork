@@ -1,7 +1,7 @@
 # Site settings
-course_name: Linear Algebra
-course_description: " This course covers matrix theory and linear algebra, emphasizing topics useful in other disciplines. Linear algebra is a branch of mathematics that studies systems of linear equations and the properties of matrices. The concepts of linear algebra are extremely useful in image processing, computer vision, data science, machine learning, bio-informatics, social networks, and neuroscience. Due to its broad range of applications, linear algebra is one of the most widely taught subjects in college-level mathematics."
-course_semester: "Fall 2024"
+course_name: Social & Economic Networks
+course_description: "This course explores the structure and impact of social and economic networks. Students will learn key concepts such as network structure, information diffusion, strategic network formation, and economic effects. Using theoretical models, empirical analysis, and case studies, the course examines the role of networks in modern economies and societies."
+course_semester: "Spring 2025"
 
 baseurl: "/socialnetwork" # the subpath of your site, e.g. /blog/
 url: "http://sut-ce-courses.github.io/" # the base hostname & protocol for your site
@@ -11,9 +11,7 @@ schoolurl: "https://sharif.edu"
 twitter_username: #
 
 address: |
-    Computer Engineering Department
-    Sharif University of Technology
-    Tehran
+    Computer Engineering Department, Sharif University of Technology, Tehran
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
