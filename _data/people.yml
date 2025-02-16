@@ -1,128 +1,70 @@
 instructors:
-  - name: Hamid R. Rabiee
-    profile_pic: /_images/pp/rabiee.jpg
-    caption: Full Professor, CE804
-    webpage: rabiee@sharif.edu
   - name: Maryam Ramezani
     profile_pic: /_images/pp/ramezani.jpg
     caption: Lecturer, CE803
     webpage: maryam.ramezani@sharif.edu
 
 teaching_assistants:
-  - name: Javad Test
-    profile_pic: /_images/pp/javad.jpg
-    webpage: mohamadahmadpour1383@gmail.com
+  - name: Mohammad Aghaei
+    profile_pic: /_images/people_image/Mohammad_Aghaei.jpg
+    webpage: mohammadaghaei800@gmail.com
 
-  - name: Mahdi Alinejad
-    profile_pic: /_images/pp/alinejad.jpg
-    webpage: mahdiali3804@gmail.com
+  - name: Erfan Moeini
+    profile_pic: /_images/people_image/erfan_moeini.jpg
+    webpage: moeini.erfan@gmail.com
 
-  - name: Sadegh Mohammadian
-    profile_pic: /_images/pp/mohammadian.jpg
-    webpage: sadegh803211@gmail.com
+  - name: Amir Hossein Moradpour
+    profile_pic: /_images/people_image/amirhossein_moradpour.jpg
+    webpage: a.moradpour1378@gmail.com
 
-  - name: Ali Najar
-    profile_pic: /_images/pp/najar.jpg
-    webpage: Anajar13750@gmail.com
-    
-  - name: Aref Zarezade
-    profile_pic: /_images/pp/zarezade.jpg
-    webpage: arefzarezade@gmail.com
-    
-  - name: Ali Bakhtiari
-    profile_pic: /_images/pp/bakhtiari.jpg
-    webpage: arshiapanahianzzna6@gmail.com
-     
-  - name: Shahyan Baghayinejad
-    profile_pic: /_images/pp/baghaie.jpg
-    webpage: ShayanBagha82@gmail.com
-    
-  - name: Ali Ghasemzadeh
-    profile_pic: /_images/pp/generic.jpg
-    webpage: lyqasmzadh72@gmail.com
-    
-  - name: Radin Shahdaei
-    profile_pic: /_images/pp/shahdaei.jpg
-    webpage: radin.shahdaei@gmail.com
-    
-  - name: Nika Ghaderi
-    profile_pic: /_images/pp/ghaderi.jpg
-    webpage: nika.ghadery@gmail.com
-    
-  - name: Asal Meskin
-    profile_pic: /_images/pp/meskin.jpg
-    webpage: asalmskin82@gmail.com 
-    
-  - name: Mohammad.A Abbasfar
-    profile_pic: /_images/pp/generic.jpg
-    webpage: m.a.abbasfar@gmail.com
-    
-  - name: Donya jafari
-    profile_pic: /_images/pp/generic.jpg
-    webpage: donyajfri111@gmail.com
-    
-  - name: Milad Hosseini
-    profile_pic: /_images/pp/generic.jpg
-    webpage: milad.hosseini532@sharif.edu
-    
-  - name: Emad Emamjomeh
-    profile_pic: /_images/pp/ejome.jpg
-    webpage: s.emad.emamjomeh@gmail.com
-    
-  - name: Diba Hadi 
-    profile_pic: /_images/pp/generic.jpg
-    webpage: diba.hadie@gmail.com
-    
-  - name: Ariana Dariuni
-    profile_pic: /_images/pp/kouchaki.jpg
-    webpage: aridariuni@gmail.com
-    
-  - name: Mohammad Shafizade
-    profile_pic: /_images/pp/shafizade.jpg
-    webpage: mohammadshafizd@gmail.com
-    
-  - name: Armin Khosravi
-    profile_pic: /_images/pp/khosravi.jpg
-    webpage: arminkhosravie@gmail.com
-    
-  - name: Alireza Asgarian
-    profile_pic: /_images/pp/generic.jpg
-    webpage: ar.asgarian1389@gmail.com
-    
-  - name: Amir.H Sharifizade
-    profile_pic: /_images/pp/generic.jpg
-    webpage: a.h.sharifizade@gmail.com
-    
-  - name: Arshia Izadyari
-    profile_pic: /_images/pp/izadyari.jpg
-    webpage: stevevisht@gmail.com
+  - name: Amirhossein Abedi
+    profile_pic: /_images/people_image/Amirhossein_Abedi.jpg
+    webpage: amirhoseinabedi80@gmail.com
 
-  - name: Zeinab Ashouri
-    profile_pic: /_images/pp/ashouri.jpg
-    webpage: zeynabashouri21@gmail.com  
-    
-  - name: Alireza Mirrokni
-    profile_pic: /_images/pp/mirrokni.jpg
-    webpage: alireza.mirrokni28@gmail.com
-    
-  - name: Mohammad.H Eslami
-    profile_pic: /_images/pp/generic.jpg
-    webpage: m20h03e@gmail.com
-    
-  - name: AmirAli Rostami
-    profile_pic: /_images/pp/rostami.jpg
-    webpage: amiralirostami99@gmail.com
-    
   - name: Shayan Shabani
-    profile_pic: /_images/pp/shabani.jpg
+    profile_pic: /_images/people_image/shayan_shabani.jpg
     webpage: shayan.shabani5814@gmail.com
 
-  - name: Mohammad Ghafouri
-    profile_pic: /_images/pp/ghafouri.jpg
-    webpage: 
-  
-  - name: Alireza malekhosseini
-    profile_pic: /_images/pp/malek.jpg
-    webpage: 
-    
-  
+  - name: Dana Afazeli
+    profile_pic: /_images/people_image/Dana_Afazeli.jpg
+    webpage: danaafa1380@gmail.com
+
+  - name: Mohammad Mahdi Barghi
+    profile_pic: /_images/people_image/Mohammad_Mahdi_Barghi.jpg
+    webpage: mahdib7980@gmail.com
+
+  - name: Melika Bitarafan
+    profile_pic: /_images/people_image/Melika_Bitarafan.jpg
+    webpage: m.bitarafan78@gmail.com
+
+  - name: Pargol Rooygari
+    profile_pic: /_images/people_image/Pargol_Rooygari.jpg
+    webpage: prglr98@gmail.com
+
+  - name: Mehran Advand
+    profile_pic: /_images/people_image/Mehran_Advand.jpeg
+    webpage: mehran.advand500@gmail.com
+
+  - name: Saeide Danaei
+    profile_pic: /_images/people_image/Saeide_Danaei.jpg
+    webpage: saeidedanaei@gmail.com
+
+  - name: Soodabe Farashaian
+    profile_pic: /_images/people_image/Soodabe_Farashaian.jpg
+    webpage: s.farashaian@gmail.com
+
+  - name: Milad Hosseini
+    profile_pic: /_images/people_image/Milad_Hosseini.jpg
+    webpage: miladhoseini532@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
