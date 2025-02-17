@@ -83,7 +83,6 @@ permalink: /syllabus/
         <td>1404/02/02</td>
         <td colspan="4" style="text-align: center;">Midterm Exam at 2:00 PM</td>
     </tr>
-    
     <tr style="background-color:#ffebcd">
         <td>1404/02/07</td>
         <td>S14</td>
@@ -154,10 +153,10 @@ permalink: /syllabus/
 
 # Grading Policy
 
-- Review Quiz: 0.5 points (from the basic knowledges in Graph from slides that given to you)
-- Assignments: 7 points (each homework, contains 4 theoretical questions and 1 long practical question that covers every topics in the syllabus)
-- Research Studies: 3 points (we have 4 research studies, that we give you one, or two papers related to the topic, and ask you a very deep and detailed questions from it. you can have a printed cheetsheat but no mobile !)
-- Research Project: 2.5 points (You will be assigned a project based on the topic you chose in Esfand, along with an article and a mentor. In teams of three, with your mentor's guidance, you will improve the article and report your enhancements. The goal is not to produce a new article but to present your improvements in a structured report.)
+- Review Quiz: 0.5 points (From Probability, Statistics, and Linear Algebra based on the provided file)
+- Assignments: 7 points (Each homework, contains 4 theoretical questions and 1 long practical question that covers every topics in the syllabus)
+- Research Studies: 3 points (We have 4 research studies, that we give you one, or two papers related to the topic, and ask you a very deep and detailed questions from it. You can have two A4 papers printed cheetsheat but no mobile !)
+- Research Project: 2.5 points (You will be assigned a project based on the topic you chose in Esfand(Up to 1404/01/15), along with an article and a mentor. In teams of three, with your mentor's guidance, you will improve the article and report your enhancements. The goal is not to produce a new article but to present your improvements in a structured report.)
 - Midterm Exam: 5 points (up to S12)
 - Final Exam: 5 points (from S13 to S25)
 - Total Points: 23 points
@@ -189,7 +188,7 @@ Research Studies will be held as the following table on **11:30** for half an ho
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Midterm</td>
-    <td>1404/02/02 2:00 PM</td>
+    <td>1404/02/02 10:30 AM</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Research Study 3</td>
@@ -211,7 +210,7 @@ Written and programming assignment submission are not accepted after the solutio
 
 # TA Classes
 
-TA Classes will be held on Sundays from 12:30 till 13:30 in room https://vc.sharif.edu/maryam.ramezani.
+TA Classes will be held on Sundays from 12:30 till 13:30 in room 201 in CE department or https://vc.sharif.edu/maryam.ramezani.
 
 <table border="1" style="width: 100%; text-align: center;">
   <tr>
