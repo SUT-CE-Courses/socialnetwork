@@ -8,7 +8,7 @@ permalink: /syllabus/
     <tr>
         <th>Date</th>
         <th>Session</th>
-        <th>Part</th>
+        <th>Homework</th>
         <th>Lecture Topic</th>
     </tr>
     <tr style="background-color:#ffffe0">
@@ -74,15 +74,16 @@ permalink: /syllabus/
         <td>S12</td>
         <td>heavy tailed-distribution, Normal Distribution, Power-law distribution, Hubs and Connectors, Zipf & Pareto, Barabasi-Albert model, Forest Fire model, Kronecker model</td>
     </tr>
-    <tr style="background-color:#ff6347">
-        <td>1404/01/31</td>
-        <td colspan="4" style="text-align: center;">Midterm Exam</td>
-    </tr>
     <tr style="background-color:#ffcccb">
-        <td>1404/02/02</td>
+        <td>1404/01/31</td>
         <td>S13</td>
         <td>Information Retrieval from Graph network</td>
     </tr>
+    <tr style="background-color:#ff6347">
+        <td>1404/02/02</td>
+        <td colspan="4" style="text-align: center;">Midterm Exam at 2:00 PM</td>
+    </tr>
+    
     <tr style="background-color:#ffebcd">
         <td>1404/02/07</td>
         <td>S14</td>
@@ -146,20 +147,20 @@ permalink: /syllabus/
         <td>Fairness on Graph</td>
     </tr>
     <tr style="background-color:#ff6347">
-        <td>1404/01/31</td>
-        <td colspan="4" style="text-align: center;">Midterm Exam</td>
+        <td>1404/04/03</td>
+        <td colspan="4" style="text-align: center;">Fina Exam at 2:00 PM</td>
     </tr>
 </table>
 
-
 # Grading Policy
 
-- Quizes: 3 points (5 quizes each 0.75 points; the lowest score will be dropped)
-- Written Assignments: 5.6 points (each of the first four is 0.85 points, and each of the last two is 1.1 points)
-- Programming Assignments: 2.4 points (preliminary exercises: 0.4 points, and the next two exercises are each 1 points)
-- Midterm Exam: 5 points (Lectures part 1,2,3,4)
-- Final Exam: 5 points (Lectures part 4(Determinant),5,6)
-- Total Points: 21 points
+- Review Quiz: 0.5 points (from the basic knowledges in Graph from slides that given to you)
+- Assignments: 7 points (each homework, contains 4 theoretical questions and 1 long practical question that covers every topics in the syllabus)
+- Research Studies: 3 points (we have 4 research studies, that we give you one, or two papers related to the topic, and ask you a very deep and detailed questions from it. you can have a printed cheetsheat but no mobile !)
+- Research Project: 2.5 points (You will be assigned a project based on the topic you chose in Esfand, along with an article and a mentor. In teams of three, with your mentor's guidance, you will improve the article and report your enhancements. The goal is not to produce a new article but to present your improvements in a structured report.)
+- Midterm Exam: 5 points (up to S12)
+- Final Exam: 5 points (from S13 to S25)
+- Total Points: 23 points
 
 # Academic Dishonsty Policy
 
@@ -167,7 +168,7 @@ Any student involved in cheating (provider or receiver) will receive a failing g
 
 # Exams
 
-Quizzes will be held as the following table on **13:00** for half an hour and will be graded in GradeScope.
+Research Studies will be held as the following table on **11:30** for half an hour and will be graded in Grade Sheet.
 
 <table border="1" style="width: 100%; text-align: center;">
   <tr>
@@ -175,78 +176,77 @@ Quizzes will be held as the following table on **13:00** for half an hour and wi
     <th>Time</th>
   </tr>
   <tr style="background-color: #FFB2A6;">
-    <td>Quiz 1</td>
-    <td>1403/07/24 13:00-13:30</td>
+    <td>Quiz Review</td>
+    <td>1403/12/07 11:30-12</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
-    <td>Quiz 2</td>
-    <td>1403/08/13 13:00-13:30</td>
+    <td>Research Study 1</td>
+    <td>1403/12/21 11:30-12</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
-    <td>Quiz 3</td>
-    <td>1403/08/27 13:00-13:30</td>
+    <td>Research Study 2</td>
+    <td>1404/01/26 11:30-12</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
-    <td>Quiz 4</td>
-    <td>1403/09/18 13:00-13:30</td>
-  </tr>
-  <tr style="background-color: #FFB2A6;">
     <td>Midterm</td>
-    <td>1403/09/22 09:00-12:00</td>
-  </tr>
-  <tr style="background-color: #B2E0D6;">
-    <td>Quiz 5</td>
-    <td>1403/10/11 13:00-13:30</td>
+    <td>1404/02/02 2:00 PM</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
-    <td>Final</td>
-    <td>1403/10/30 09:00-12:00</td>
+    <td>Research Study 3</td>
+    <td>1404/02/23 11:30-12</td>
+  </tr>
+  <tr style="background-color: #B2E0D6;">
+    <td>Research Study 4</td>
+    <td>1404/03/13 11:30-12</td>
+  </tr>
+  <tr style="background-color: #FFB2A6;">
+    <td>Final Exam</td>
+    <td>1404/04/03 11:30-12</td>
   </tr>
 </table>
 
 # Assignments
 
-Written and programming assignment submission are not accepted after the solution is released. If you are late, submit what you have and start working on the next assignment. You have free 4 late days for practical assignments and 4 late days for theoretical assignments. A late day extends the deadline 24 hours. Once you have used all late days, the penalty is 10% for each additional late day. You can use late days till release of the answer, remember no submition is accepted afterwards.
+Written and programming assignment submission are not accepted after the solution is released. If you are late, submit what you have and start working on the next assignment. You have **10 free late days** for practical assignments and **10 free late days** for theoretical assignments. A late day extends the deadline 24 hours. Once you have used all late days, the penalty is **0.5% per hour** for each additional late hour. You can use late days till the release of the answer, remember no submission is accepted afterward. Additionally, each assignment has a **5-day submission window** before late penalties apply.
 
 # TA Classes
 
-TA Classes will be held on Wednesday from 18:00 till 20:00 in room https://vc.sharif.edu/rabiee-ta.
+TA Classes will be held on Sundays from 12:30 till 13:30 in room https://vc.sharif.edu/maryam.ramezani.
 
 <table border="1" style="width: 100%; text-align: center;">
   <tr>
-    <th>Date</th>
     <th>Title</th>
+    <th>Date</th>
+    <th>Time</th>
   </tr>
   <tr style="background-color: #e0f7fa;">
-    <td>1403/07/18</td>
-    <td>Part1</td>
+    <td>TA Session for Homework1</td>
+    <td>1403/12/12</td>
+    <td>12:30 - 13:30 PM</td>
   </tr>
   <tr style="background-color: #ffe0b2;">
-    <td>1403/08/09</td>
-    <td>Part2</td>
-  </tr>
-  <tr style="background-color: #F1C0D5;">
-    <td>1403/08/23</td>
-    <td>Part3</td>
+    <td>TA Session for Homework2</td>
+    <td>1403/12/26</td>
+    <td>12:30 - 13:30 PM</td>
   </tr>
   <tr style="background-color: #c8e6c9;">
-    <td>1403/09/14</td>
-    <td>Part4</td>
+    <td>TA Session for Midterm</td>
+    <td>1403/01/31</td>
+    <td>12:30 - 13:30 PM</td>
   </tr>
-  <tr style="background-color: #E6B7E0;">
-    <td>1403/09/21</td>
-    <td>Midterm</td>
+  <tr style="background-color: #F1C0D5;">
+    <td>TA Session for Homework3</td>
+    <td>1404/02/07</td>
   </tr>
-  <tr style="background-color: #FFF3B3">
-    <td>1403/10/05</td>
-    <td>Part5</td>
+    <tr style="background-color: #E6B7E0;">
+    <td>TA Session for Homework4</td>
+    <td>1404/02/28</td>
+    <td>12:30 - 13:30 PM</td>
   </tr>
   <tr style="background-color: #F0E1E1;">
-    <td>1403/10/29</td>
-    <td>Final</td>
+    <td>1404/04/01</td>
+    <td>TA Session for Final Exam</td>
+    <td>12:30 - 13:30 PM</td>
+
   </tr>
 </table>
-
-# Site
-
-You can find all resources and announsments of course on jabrekh.ir
