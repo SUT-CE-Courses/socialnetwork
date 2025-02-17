@@ -8,12 +8,16 @@ items:
   icon_class: fas fa-user-graduate
   
 - url: /schedule/
-  name: Schedule
+  name: Course Schedule
   icon_class: fas fa-calendar-alt
 
 - url: /lectures/
   name: Lectures
   icon_class: fas fa-book-reader
+
+- url: /project-topics/
+  name: Project Topics
+  icon_class: fas fa-user-graduate
 
 - url: /assignments/
   name: Assignments
@@ -28,5 +32,5 @@ items:
   icon_class: fas fa-user-graduate
 
 - url: /materials/
-  name: Materials
+  name: Materials and Sources
   icon_class: fas fa-book
