@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sources
+title: sources
 permalink: /sources/
 ---
 
