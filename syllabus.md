@@ -35,7 +35,7 @@ permalink: /syllabus/
     <tr style="background-color:#add8e6">
         <td>1403/12/12</td>
         <td>S05</td>
-        <td rowspan="5">2</td>
+        <td rowspan="4">2</td>
         <td>Spectral properties of graphs, review Eigenvalue and eigenvectors, PCA, Spectral decomposition theorem, Laplacian Matrix</td>
     </tr>
     <tr style="background-color:#add8e6">
@@ -56,7 +56,7 @@ permalink: /syllabus/
     <tr style="background-color:#ffcccb">
         <td>1404/01/17</td>
         <td>S09</td>
-        <td rowspan="4">3</td>
+        <td rowspan="5">3</td>
         <td>Community Detection Algorithms</td>
     </tr>
     <tr style="background-color:#ffcccb">
@@ -86,7 +86,7 @@ permalink: /syllabus/
     <tr style="background-color:#ffebcd">
         <td>1404/02/07</td>
         <td>S14</td>
-        <td rowspan="6">4</td>
+        <td rowspan="8">4</td>
         <td>Game on Network</td>
     </tr>
     <tr style="background-color:#ffebcd">
@@ -117,7 +117,6 @@ permalink: /syllabus/
     <tr style="background-color:#ffebcd">
         <td>1404/02/28</td>
         <td>S20</td>
-        <td rowspan="5">5</td>
         <td>Representation Learning on Graphs</td>
     </tr>
     <tr style="background-color:#ffebcd">
@@ -128,6 +127,7 @@ permalink: /syllabus/
     <tr style="background-color:#e6e6fa">
         <td>1404/03/04</td>
         <td>S22</td>
+        <td rowspan="4">5</td>
         <td>Message Passing and Node Classification</td>
     </tr>
     <tr style="background-color:#e6e6fa">
