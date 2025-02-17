@@ -3,7 +3,7 @@ layout: page
 title: sources
 permalink: /sources/
 ---
-
+<!-- 
 {% include image.html url="/_images/cover3.jpg" width=175 align="right" %}
 
 ## Book
@@ -20,5 +20,5 @@ permalink: /sources/
 * [Kenneth Hoffman and Ray A. Kunze.Linear Algebra. PHI Learning, 2004](https://www.math.pku.edu.cn/teachers/anjp/textbook.pdf): 
 * [Gilbert Strang. Introduction to Linear Algebra. Wellesley-Cambridge Press, 2016](): 
 * [David C. Lay, Steven R. Lay, and Judi J. McDonald.Linear Algebra and Its Applications. Pearson, 2016](https://home.cs.colorado.edu/~alko5368/lecturesCSCI2820/mathbook.pdf): 
-* [Other textbooks and course materials](): anything additional
+* [Other textbooks and course materials](): anything additional -->
 
