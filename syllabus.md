@@ -237,6 +237,7 @@ TA Classes will be held on Sundays from 12:30 till 13:30 in room https://vc.shar
   <tr style="background-color: #F1C0D5;">
     <td>TA Session for Homework3</td>
     <td>1404/02/07</td>
+    <td>12:30 - 13:30 PM</td>
   </tr>
     <tr style="background-color: #E6B7E0;">
     <td>TA Session for Homework4</td>
@@ -244,8 +245,8 @@ TA Classes will be held on Sundays from 12:30 till 13:30 in room https://vc.shar
     <td>12:30 - 13:30 PM</td>
   </tr>
   <tr style="background-color: #F0E1E1;">
-    <td>1404/04/01</td>
     <td>TA Session for Final Exam</td>
+    <td>1404/04/01</td>
     <td>12:30 - 13:30 PM</td>
 
   </tr>
