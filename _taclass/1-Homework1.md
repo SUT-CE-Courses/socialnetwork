@@ -2,7 +2,7 @@
 type: taclass
 date: 1403-07-04T8:00:00+4:30
 title: TA Session for Homework1	by Erfan Moeini
-tldr: "Linear Transformation, Change Basis, Inverse, Determinant"
+# tldr: "Linear Transformation, Change Basis, Inverse, Determinant"
 thumbnail: /static_files/taclass/p1.jpg
 links: 
     - url: /static_files/taclass/Hallet_4.pdf
