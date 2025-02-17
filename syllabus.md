@@ -147,9 +147,11 @@ permalink: /syllabus/
     </tr>
     <tr style="background-color:#ff6347">
         <td>1404/04/03</td>
-        <td colspan="4" style="text-align: center;">Fina Exam at 2:00 PM</td>
+        <td colspan="4" style="text-align: center;">Final Exam at 2:00 PM</td>
     </tr>
 </table>
+
+
 
 # Grading Policy
 
@@ -203,6 +205,8 @@ Research Studies will be held as the following table on **11:30** for half an ho
     <td>1404/04/03 11:30-12</td>
   </tr>
 </table>
+
+
 
 # Assignments
 
