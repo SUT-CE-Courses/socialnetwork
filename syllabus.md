@@ -56,7 +56,7 @@ permalink: /syllabus/
     <tr style="background-color:#ffcccb">
         <td>1404/01/17</td>
         <td>S09</td>
-        <td rowspan="5">3</td>
+        <td rowspan="6">3</td>
         <td>Community Detection Algorithms</td>
     </tr>
     <tr style="background-color:#ffcccb">
@@ -127,7 +127,7 @@ permalink: /syllabus/
     <tr style="background-color:#e6e6fa">
         <td>1404/03/04</td>
         <td>S22</td>
-        <td rowspan="4">5</td>
+        <td rowspan="5">5</td>
         <td>Message Passing and Node Classification</td>
     </tr>
     <tr style="background-color:#e6e6fa">
