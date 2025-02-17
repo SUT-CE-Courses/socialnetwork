@@ -143,7 +143,6 @@ permalink: /syllabus/
     <tr style="background-color:#e6e6fa">
         <td>1404/03/13</td>
         <td>S25</td>
-        <td></td>
         <td>Fairness on Graph</td>
     </tr>
     <tr style="background-color:#ff6347">
