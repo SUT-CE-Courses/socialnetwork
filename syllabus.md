@@ -56,24 +56,23 @@ permalink: /syllabus/
     <tr style="background-color:#ffcccb">
         <td>1404/01/17</td>
         <td>S09</td>
+        <td rowspan="4">3</td>
         <td>Community Detection Algorithms</td>
-        
     </tr>
     <tr style="background-color:#ffcccb">
         <td>1404/01/19</td>
         <td>S10</td>
-        <td rowspan="4">3</td>
-        <td>Random walk, Irreducible, Aperiodic,</td>
+        <td>Random walk, Irreducible, Aperiodic</td>
     </tr>
     <tr style="background-color:#ffcccb">
         <td>1404/01/24</td>
         <td>S11</td>
-        <td>Random Graph: Erdös-Renyi, Small-world networks, Watts-Strogatz model, Newman-Watts model, Kleinberg’s geographical model,</td>
+        <td>Random Graph: Erdös-Renyi, Small-world networks, Watts-Strogatz model, Newman-Watts model, Kleinberg’s geographical model</td>
     </tr>
     <tr style="background-color:#ffcccb">
         <td>1404/01/26</td>
         <td>S12</td>
-        <td>heavy tailed-distribution, Normal Distribution, Power-law distribution, Hubs and Connectors, Zipf & Pareto, Barabasi-Albert model, Forest Fire model, Kronecker model,</td>
+        <td>heavy tailed-distribution, Normal Distribution, Power-law distribution, Hubs and Connectors, Zipf & Pareto, Barabasi-Albert model, Forest Fire model, Kronecker model</td>
     </tr>
     <tr style="background-color:#ff6347">
         <td>1404/01/31</td>
@@ -141,20 +140,18 @@ permalink: /syllabus/
         <td>S24</td>
         <td>Knowledge Graphs and Meta Paths</td>
     </tr>
-    
     <tr style="background-color:#e6e6fa">
         <td>1404/03/13</td>
         <td>S25</td>
         <td></td>
         <td>Fairness on Graph</td>
     </tr>
-        <tr style="background-color:#ff6347">
+    <tr style="background-color:#ff6347">
         <td>1404/01/31</td>
         <td colspan="4" style="text-align: center;">Midterm Exam</td>
     </tr>
-    
-
 </table>
+
 
 # Grading Policy
 
