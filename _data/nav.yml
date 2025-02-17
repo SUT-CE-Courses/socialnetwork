@@ -15,10 +15,6 @@ items:
   name: Lectures
   icon_class: fas fa-book-reader
 
-# - url: /project-topics/
-#   name: Project Topics
-#   icon_class: fas fa-user-graduate
-
 - url: /assignments/
   name: Assignments
   icon_class: fas fa-user-graduate
@@ -31,6 +27,6 @@ items:
   name: TA Class
   icon_class: fas fa-user-graduate
 
-- url: /Sources/
+- url: /sources/
   name: Sources
   icon_class: fas fa-book
