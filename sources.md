@@ -4,21 +4,21 @@ title: sources
 permalink: /sources/
 ---
 
-{% include image.html url="/_images/cover3.jpg" width=175 align="right" %}
+{% include image.html url="/_images/cover1.jpg" width=175 align="right" %}
 
 ## Book
 
-[Sheldon Axler, Linear Algebra Done Right, fourth edition, 2023](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf)
+[Kleinberg, J., & Easley, D. (2010). Networks, crowds, and markets: Reasoning about a highly connected world. Cambridge University Press.](https://www.cs.cornell.edu/home/kleinber/networks-book/)
 
 ## Class Notes
-* [Sessions 2 to 12 by Mr. Farbod Fattahi](https://github.com/SUT-CE-Courses/linearalgebra/blob/master/static_files/notebooks/%D8%AC%D8%B2%D9%88%D9%87-%DB%8C%20%D8%AC%D8%A8%D8%B1%D8%AE%D8%B7%DB%8C%20%D8%AC%D9%84%D8%B3%D8%A7%D8%AA%202%20%D8%AA%D8%A7%2012.pdf)
-* [Sessions 13 to 21 by Mr. Farbod Fattahi](https://github.com/SUT-CE-Courses/linearalgebra/blob/master/static_files/notebooks/__%D8%AC%D8%B2%D9%88%D9%87%20%D8%AC%D8%A8%D8%B1%20%D8%AE%D8%B7%DB%8C%20-%20%D8%AC%D9%84%D8%B3%D9%87%2013%20%D8%AA%D8%A7%2021_.pdf)
+* [Network Science by Albert-László Barabási](http://networksciencebook.com/)
+* [Graph Representation Learning Book William L. Hamilton, McGill University](https://www.cs.mcgill.ca/~wlh/grl_book/)
 * 
+
 ## Additional Course Materials
 
-* If you are not familiar with Python programming, use any online tutorial to get a handle of it.
-* [Kenneth Hoffman and Ray A. Kunze.Linear Algebra. PHI Learning, 2004](https://www.math.pku.edu.cn/teachers/anjp/textbook.pdf): 
-* [Gilbert Strang. Introduction to Linear Algebra. Wellesley-Cambridge Press, 2016](): 
-* [David C. Lay, Steven R. Lay, and Judi J. McDonald.Linear Algebra and Its Applications. Pearson, 2016](https://home.cs.colorado.edu/~alko5368/lecturesCSCI2820/mathbook.pdf): 
-* [Other textbooks and course materials](): anything additional
+* [William L. Hamilton. *Graph Representation Learning*. Morgan & Claypool, 2020]()  
+* [David Easley and Jon Kleinberg. *Networks, Crowds, and Markets: Reasoning About a Highly Connected World*. Cambridge University Press, 2010](https://www.cs.cornell.edu/home/kleinber/networks-book/)  
+* [Albert-László Barabási. *Network Science*. Cambridge University Press, 2016]()  
+
 
