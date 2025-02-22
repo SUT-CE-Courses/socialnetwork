@@ -1,9 +1,9 @@
 ---
-# type: due
-# date: 1403-07-22T23:59:0+0:00
-# description: HW#1 Deadline
+type: due
+date: 1403-12-07T23:59:0+0:00
+description: Quiz Review
 
-# # optional
-# # set it to true if you don't want this event to appear in the announcements section
-# hide_from_announcments: true
-# ---
+# optional
+# set it to true if you don't want this event to appear in the announcements section
+hide_from_announcments: true
+---
