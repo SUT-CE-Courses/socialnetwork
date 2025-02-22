@@ -1,6 +1,6 @@
 ---
 type: due
-date: 1403-12-07
+date: 1403-12-07T11:30:0+0:00
 description: Quiz Review
 
 # optional
