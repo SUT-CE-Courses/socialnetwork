@@ -15,4 +15,5 @@ permalink: /sources/
 
 * [Network Science by Albert-László Barabási](http://networksciencebook.com/)
 * [Graph Representation Learning Book William L. Hamilton, McGill University](https://www.cs.mcgill.ca/~wlh/grl_book/)
+* [How to read a paper?](/static_files/books/paper-reading.pdf)
 
