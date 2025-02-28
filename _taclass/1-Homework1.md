@@ -1,4 +1,4 @@
-<!-- ---
+---
 type: taclass
 date: 1403-07-04T8:00:00+4:30
 title: TA Session for Homework1	by Erfan Moeini
@@ -15,4 +15,4 @@ links:
 
 hide_from_announcments: true
 
---- -->
+---
