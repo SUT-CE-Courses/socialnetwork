@@ -5,6 +5,7 @@ date: 1403-12-21T4:30:00+4:30
 description: Introduction to networks
 pdf: /static_files/assignments/HW1.pdf
 attachment: /static_files/assignments/Hw1.zip
+due: 1410-01-01T23:59:00+4:30
 # solutions: /static_files/assignments/Hw1.zip
 due_event: 
    type: due
