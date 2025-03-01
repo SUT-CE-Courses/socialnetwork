@@ -20,12 +20,12 @@ permalink: /syllabus/
     <tr style="background-color:#ffffe0">
         <td>1403/11/30</td>
         <td>S02</td>
-        <td>Graph Theory</td>
+        <td>Graph Theory and Searching Algorithms</td>
     </tr>
     <tr style="background-color:#ffffe0">
         <td>1403/12/05</td>
         <td>S03</td>
-        <td>Graph-searching Algorithms (BFS, DFS, Dijkstra Path-Finding, Power of Matrix)</td>
+        <td>Review Eigenvalue and Eigenvectors, Covarince Matix, & PCA</td></td>
     </tr>
     <tr style="background-color:#ffffe0">
         <td>1403/12/07</td>
@@ -36,7 +36,7 @@ permalink: /syllabus/
         <td>1403/12/12</td>
         <td>S05</td>
         <td rowspan="4">2</td>
-        <td>Spectral properties of graphs, review Eigenvalue and eigenvectors, PCA, Spectral decomposition theorem, Laplacian Matrix</td>
+        <td>Network metrics</td>
     </tr>
     <tr style="background-color:#add8e6">
         <td>1403/12/14</td>
@@ -51,7 +51,7 @@ permalink: /syllabus/
     <tr style="background-color:#add8e6">
         <td>1403/12/21</td>
         <td>S08</td>
-        <td>Graph Clustering</td>
+        <td>Graph Clustering (Spectral properties of graphs, Spectral decomposition theorem, Laplacian Matrix)</td>
     </tr>
     <tr style="background-color:#ffcccb">
         <td>1404/01/17</td>
