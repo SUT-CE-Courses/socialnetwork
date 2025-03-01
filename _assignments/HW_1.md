@@ -8,7 +8,7 @@ attachment: /static_files/assignments/Hw1.zip
 # solutions: /static_files/assignments/Hw1.zip
 due_event: 
    type: due
-   date: 1410-12-21
+   date: 1403-12-21
    description: 'HW #1 deadline'
 hide_from_announcments: true
 ---
