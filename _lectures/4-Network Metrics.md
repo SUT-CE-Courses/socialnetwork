@@ -7,5 +7,6 @@ thumbnail: /static_files/slides/4.png
 links:
   - url: /static_files/slides/4-Network Metrics.pdf
     name: slides 
-  hide_from_announcments: true
+
+hide_from_announcments: true
 ---
