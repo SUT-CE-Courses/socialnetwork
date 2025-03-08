@@ -5,7 +5,7 @@ title: "Research Study 1 - 1403/12/21"
 content: "f"
 thumbnail: /static_files/exam/lec1.jpg
 links:
-  - url: /static_files/Research Study/RS1/RS-1.rar
+  - url: /static_files/exam/Research Study/RS1/RS-1.rar
     name: Source 
 
   # - url: /static_files/exam/ReviewQuiz/question.pdf
