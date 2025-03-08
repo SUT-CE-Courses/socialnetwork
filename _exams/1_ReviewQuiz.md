@@ -7,7 +7,7 @@ thumbnail: /static_files/exam/lec1.jpg
 links:
   - url: http://snap.stanford.edu/class/cs224w-2019/handouts/CS224W_LinAl_Prob_Proof.pdf
     name: Source 1
-  - url: /static_files/exam/ReviewQuiz/question.pdf
+  - url: /static_files/exam/ReviewQuiz/questions.pdf
     name: Questions
   - url: /static_files/exam/ReviewQuiz/solution.pdf
     name: Solutions
