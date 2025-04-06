@@ -5,7 +5,7 @@ title: Network Metrics
 tldr: "1403/12/14"
 thumbnail: /static_files/slides/5.png
 links:
-  - url: /static_files/slides/5-Network Metrics.pdf
+  - url: /static_files/slides/5-Network metrics.pdf
     name: slides 
 
 hide_from_announcments: true
