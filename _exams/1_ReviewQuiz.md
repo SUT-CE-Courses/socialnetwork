@@ -1,9 +1,8 @@
 ---
 type: exam
-date: 1403-07-01T8:00:00+4:30
+date: 1403-12-12T8:00:00+4:30
 title: "Review Quiz - 1403/12/12"
-content: "f"
-thumbnail: /static_files/exam/lec1.jpg
+thumbnail: /static_files/exam/LAQuiz.png
 links:
   - url: http://snap.stanford.edu/class/cs224w-2019/handouts/CS224W_LinAl_Prob_Proof.pdf
     name: Source 1

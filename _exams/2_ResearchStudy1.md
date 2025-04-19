@@ -1,15 +1,11 @@
 ---
 type: exam
-date: 1403-07-01T8:00:00+4:30
+date: 1403-12-21T8:00:00+4:30
 title: "Research Study 1 - 1403/12/21"
-content: "f"
-thumbnail: /static_files/exam/lec1.jpg
+thumbnail: /static_files/exam/rs1.png
 links:
   - url: /static_files/exam/Research Study/RS1/RS-1.rar
-    name: Source 
-
-  # - url: /static_files/exam/ReviewQuiz/question.pdf
-  #   name: Questions
+    name: Source
   # - url: /static_files/exam/ReviewQuiz/solution.pdf
   #   name: Solutions
 hide_from_announcments: true

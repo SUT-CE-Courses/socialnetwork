@@ -15,7 +15,7 @@ hide_from_announcments: true
 
 Network metrics<br>
 Released On 1404/01/17<br>
-HW #2 Thoery Soft Deadline : 1404/01/29
-HW #2 Thoery Hard Deadline : 1404/01/31
-HW #2 Practical Soft Deadline : 1404/02/03
+HW #2 Thoery Soft Deadline : 1404/01/29 <br>
+HW #2 Thoery Hard Deadline : 1404/01/31 <br>
+HW #2 Practical Soft Deadline : 1404/02/03 <br>
 HW #2 Practical Hard Deadline : 1404/02/05
