@@ -151,8 +151,6 @@ permalink: /syllabus/
     </tr>
 </table>
 
-
-
 # Grading Policy
 
 - Review Quiz: 0.5 points (From Probability, Statistics, and Linear Algebra based on the provided file)
@@ -206,8 +204,6 @@ Research Studies will be held as the following table on **11:30** for half an ho
   </tr>
 </table>
 
-
-
 # Assignments
 
 Written and programming assignment submission are not accepted after the solution is released. If you are late, submit what you have and start working on the next assignment. You have **10 free late days** for practical assignments and **10 free late days** for theoretical assignments. A late day extends the deadline 24 hours. Once you have used all late days, the penalty is **0.5% per hour** for each additional late hour. You can use late days till the release of the answer, remember no submission is accepted afterward. Additionally, each assignment has a **5-day submission window** before late penalties apply.
@@ -223,33 +219,39 @@ TA Classes will be held on Sundays from 12:30 till 13:30 in room 201 in CE depar
     <th>Time</th>
   </tr>
   <tr style="background-color: #e0f7fa;">
-    <td>TA Session for Homework1</td>
-    <td>1403/12/12</td>
-    <td>12:30 - 13:30 PM</td>
+    <td>TA Session for Review Quiz</td>
+    <td>1403/12/08</td>
+    <td>8:00 - 9:00 PM</td>
   </tr>
   <tr style="background-color: #ffe0b2;">
-    <td>TA Session for Homework2</td>
-    <td>1403/12/26</td>
+    <td>TA Session for Homework1</td>
+    <td>1403/12/14</td>
     <td>12:30 - 13:30 PM</td>
   </tr>
   <tr style="background-color: #c8e6c9;">
-    <td>TA Session for Midterm</td>
-    <td>1403/01/31</td>
+    <td>TA Session for Homework1 part2</td>
+    <td>1403/12/19</td>
     <td>12:30 - 13:30 PM</td>
   </tr>
   <tr style="background-color: #F1C0D5;">
-    <td>TA Session for Homework3</td>
-    <td>1404/02/07</td>
+    <td>TA Session for midterm</td>
+    <td>1404/01/31</td>
     <td>12:30 - 13:30 PM</td>
   </tr>
     <tr style="background-color: #E6B7E0;">
+    <td>TA Session for Homework3</td>
+    <td>?</td>
+    <td>12:30 - 13:30 PM</td>
+  </tr>
+  </tr>
+    <tr style="background-color: #E6B7E0;">
     <td>TA Session for Homework4</td>
-    <td>1404/02/28</td>
+    <td>?</td>
     <td>12:30 - 13:30 PM</td>
   </tr>
   <tr style="background-color: #F0E1E1;">
     <td>TA Session for Final Exam</td>
-    <td>1404/04/01</td>
+    <td>?</td>
     <td>12:30 - 13:30 PM</td>
 
   </tr>
