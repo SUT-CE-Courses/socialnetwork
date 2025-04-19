@@ -176,15 +176,15 @@ Research Studies will be held as the following table on **11:30** for half an ho
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Quiz Review</td>
-    <td>1403/12/07 11:30-12</td>
+    <td>1403/12/07 11:30-12 AM</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Research Study 1</td>
-    <td>1403/12/21 11:30-12</td>
+    <td>1403/12/21 11:30-12 AM</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Research Study 2</td>
-    <td>1404/01/26 11:30-12</td>
+    <td>1404/01/26 11:30-12 AM</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Midterm</td>
@@ -192,15 +192,15 @@ Research Studies will be held as the following table on **11:30** for half an ho
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Research Study 3</td>
-    <td>1404/02/23 11:30-12</td>
+    <td>1404/02/23 11:30-12 AM</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Research Study 4</td>
-    <td>1404/03/13 11:30-12</td>
+    <td>1404/03/13 11:30-12 AM</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Final Exam</td>
-    <td>1404/04/03 11:30-12</td>
+    <td>1404/04/03 11:30-12 AM</td>
   </tr>
 </table>
 
