@@ -79,7 +79,7 @@ permalink: /syllabus/
         <td>S13</td>
         <td>Information Retrieval from Graph network</td>
     </tr>
-    <tr style="background-color:#ff6347">
+    <tr style="background-color:#00ff26">
         <td>1404/02/02</td>
         <td colspan="4" style="text-align: center;">Midterm Exam at 10:30 AM</td>
     </tr>
@@ -145,7 +145,7 @@ permalink: /syllabus/
         <td>S25</td>
         <td>Fairness on Graph</td>
     </tr>
-    <tr style="background-color:#ff6347">
+    <tr style="background-color:#00ff26">
         <td>1404/04/03</td>
         <td colspan="4" style="text-align: center;">Final Exam at 2:00 PM</td>
     </tr>
