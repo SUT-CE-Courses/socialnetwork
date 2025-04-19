@@ -1,17 +1,19 @@
 ---
 type: assignment
-title: 'HW #1'
-date: 1403-12-21T4:30:00+4:30
+title: "HW #1"
+date: 1403-12-29T4:30:00+4:30
 description: Introduction to networks
-pdf: /static_files/assignments/HW1.pdf
-attachment: /static_files/assignments/Hw1.zip
-# solutions: /static_files/assignments/Hw1.zip
-due_event: 
-   type: due
-   date: 1403-12-21
-   description: 'HW #1 deadline'
+pdf: /static_files/assignments/HW1/HW1.pdf
+attachment: /static_files/assignments/HW1/Hw1.zip
+solutions: /static_files/assignments/HW1/HW1_Solution.zip
+due_event:
+  type: due
+  date: 1403-12-21
+  description: "HW #1 deadline"
 hide_from_announcments: true
 ---
+
 Introduction to networks<br>
 Released On 1403/12/09<br>
-HW #1 Deadline : 1403/12/21 
+HW #1 Soft Deadline : 1403/12/27
+HW #1 Hard Deadline : 1403/12/29
