@@ -32,23 +32,23 @@ permalink: /syllabus/
         <td>S04</td>
         <td>Network metrics (path length, Betweenness Centrality, Edge Betweenness Centrality, Node Betweenness Centrality, Efficiency, Vulnerability, Degree and degree distribution, Bipartivity degree, Disconnecting and cut sets, Bridge, Strong and Weak ties, Triadic closure, Clustering coefficient, Local efficiency, Structural hole, Cyclic coefficient, Rich-club coefficient, Homophily)</td>
     </tr>
-    <tr style="background-color:#1d8065">
+    <tr style="background-color:#2abb89">
         <td>1403/12/12</td>
         <td>S05</td>
         <td rowspan="4">2</td>
         <td>Network metrics</td>
     </tr>
-    <tr style="background-color:#1d8065">
+    <tr style="background-color:#2abb89">
         <td>1403/12/14</td>
         <td>S06</td>
         <td>Motif, Isomorphism, Graphlets</td>
     </tr>
-    <tr style="background-color:#1d8065">
+    <tr style="background-color:#2abb89">
         <td>1403/12/19</td>
         <td>S07</td>
         <td>Centrality</td>
     </tr>
-    <tr style="background-color:#1d8065">
+    <tr style="background-color:#2abb89">
         <td>1403/12/21</td>
         <td>S08</td>
         <td>Graph Clustering (Spectral properties of graphs, Spectral decomposition theorem, Laplacian Matrix)</td>
@@ -83,43 +83,43 @@ permalink: /syllabus/
         <td>1404/02/02</td>
         <td colspan="4" style="text-align: center;">Midterm Exam at 10:30 AM</td>
     </tr>
-    <tr style="background-color:#1d8065">
+    <tr style="background-color:#2abb89">
         <td>1404/02/07</td>
         <td>S14</td>
         <td rowspan="8">4</td>
         <td>Game on Network</td>
     </tr>
-    <tr style="background-color:#1d8065">
+    <tr style="background-color:#2abb89">
         <td>1404/02/09</td>
         <td>S15</td>
         <td>Cascade, Cascaded Behavior and Epidemics on Complex Networks</td>
     </tr>
-    <tr style="background-color:#1d8065">
+    <tr style="background-color:#2abb89">
         <td>1404/02/14</td>
         <td>S16</td>
         <td>Link Prediction</td>
     </tr>
-    <tr style="background-color:#1d8065">
+    <tr style="background-color:#2abb89">
         <td>1404/02/16</td>
         <td>S17</td>
         <td>Recommendation Systems</td>
     </tr>
-    <tr style="background-color:#1d8065">
+    <tr style="background-color:#2abb89">
         <td>1404/02/21</td>
         <td>S18</td>
         <td>Influence Maximization</td>
     </tr>
-    <tr style="background-color:#1d8065">
+    <tr style="background-color:#2abb89">
         <td>1404/02/23</td>
         <td>S19</td>
         <td>Outbreak Detection</td>
     </tr>
-    <tr style="background-color:#1d8065">
+    <tr style="background-color:#2abb89">
         <td>1404/02/28</td>
         <td>S20</td>
         <td>Representation Learning on Graphs</td>
     </tr>
-    <tr style="background-color:#1d8065">
+    <tr style="background-color:#2abb89">
         <td>1404/02/30</td>
         <td>S21</td>
         <td>Network Construction, Inference, and Deconvolution</td>
@@ -223,7 +223,7 @@ TA Classes will be held on Sundays from 12:30 till 13:30 in room 201 in CE depar
     <td>1403/12/08</td>
     <td>8:00 - 9:00 PM</td>
   </tr>
-  <tr style="background-color: #1d8065;">
+  <tr style="background-color: #2abb89;">
     <td>TA Session for Homework1</td>
     <td>1403/12/14</td>
     <td>12:30 - 13:30 PM</td>
@@ -233,7 +233,7 @@ TA Classes will be held on Sundays from 12:30 till 13:30 in room 201 in CE depar
     <td>1403/12/19</td>
     <td>12:30 - 13:30 PM</td>
   </tr>
-  <tr style="background-color: #1d8065;">
+  <tr style="background-color: #2abb89;">
     <td>TA Session for midterm</td>
     <td>1404/01/31</td>
     <td>12:30 - 13:30 PM</td>
@@ -244,7 +244,7 @@ TA Classes will be held on Sundays from 12:30 till 13:30 in room 201 in CE depar
     <td>?</td>
   </tr>
   </tr>
-    <tr style="background-color: #1d8065;">
+    <tr style="background-color: #2abb89;">
     <td>TA Session for Homework4</td>
     <td>?</td>
     <td>?</td>
