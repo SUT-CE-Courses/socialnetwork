@@ -61,7 +61,7 @@ permalink: /syllabus/
     <tr style="background-color:#f7f1d3">
         <td>1404/01/19</td>
         <td>S10</td>
-        <td rowspan="5">3</td>
+        <td rowspan="6">3</td>
         <td>Spectral properties of graphs</td>
     </tr>
     <tr style="background-color:#f7f1d3">
