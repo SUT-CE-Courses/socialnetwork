@@ -53,7 +53,7 @@ permalink: /syllabus/
         <td>S08</td>
         <td>Network Centrality</td>
     </tr>
-    <tr style="background-color:#f7f1d3">
+    <tr style="background-color:#2abb89">
         <td>1404/01/17</td>
         <td>S09</td>
         <td>Network Centrality</td>
@@ -83,7 +83,7 @@ permalink: /syllabus/
         <td>1404/02/02</td>
         <td colspan="4" style="text-align: center;">Midterm Exam at 10:30 AM</td>
     </tr>
-    <tr style="background-color:#2abb89">
+    <tr style="background-color:#f7f1d3">
         <td>1404/02/07</td>
         <td>S14</td>
         <td rowspan="8">4</td>
