@@ -35,7 +35,7 @@ permalink: /syllabus/
     <tr style="background-color:#2abb89">
         <td>1403/12/12</td>
         <td>S05</td>
-        <td rowspan="4">2</td>
+        <td rowspan="5">2</td>
         <td>Linear Algebra on Graph (Review Eigenvalue and Eigenvectors, Covariance Matrix, & PCA)</td>
     </tr>
     <tr style="background-color:#2abb89">
@@ -56,12 +56,12 @@ permalink: /syllabus/
     <tr style="background-color:#f7f1d3">
         <td>1404/01/17</td>
         <td>S09</td>
-        <td rowspan="6">3</td>
         <td>Network Centrality</td>
     </tr>
     <tr style="background-color:#f7f1d3">
         <td>1404/01/19</td>
         <td>S10</td>
+        <td rowspan="5">3</td>
         <td>Spectral properties of graphs</td>
     </tr>
     <tr style="background-color:#f7f1d3">
