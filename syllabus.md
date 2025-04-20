@@ -86,12 +86,12 @@ permalink: /syllabus/
     <tr style="background-color:#f7f1d3">
         <td>1404/02/07</td>
         <td>S14</td>
-        <td rowspan="8">4</td>
         <td>Graph Clustering</td>
     </tr>
     <tr style="background-color:#2abb89">
         <td>1404/02/09</td>
         <td>S15</td>
+        <td rowspan="7">4</td>
         <td>Graph Modeling</td>
     </tr>
     <tr style="background-color:#2abb89">
