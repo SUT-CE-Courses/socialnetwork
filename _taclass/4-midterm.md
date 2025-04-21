@@ -7,8 +7,8 @@ thumbnail: /static_files/taclass/midterm.png
 links:
   - url: /static_files/taclass/midterm-part1.pdf
     name: document part1
-  # - url: /static_files/taclass/midterm-part2.pdf
-  #   name: document part2
+  - url: /static_files/taclass/midterm-part2.pdf
+    name: document part2
 
 hide_from_announcments: true
 ---
