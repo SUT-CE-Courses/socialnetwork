@@ -6,7 +6,7 @@ description: Network metrics
 pdf: /static_files/assignments/HW2/HW2.pdf
 attachment: /static_files/assignments/HW2/HW2-dataset.gdf
 # solutions: /static_files/assignments/HW2/HW2_Solution.zip
-solutions (theory part): /static_files/assignments/HW2/HW2_Theory_Solution.pdf
+solutions: /static_files/assignments/HW2/HW2_Theory_Solution.pdf
 due_event:
   type: due
   date: 1404-02-05
