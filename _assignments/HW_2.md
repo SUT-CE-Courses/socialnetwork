@@ -15,7 +15,7 @@ due_event:
 hide_from_announcments: true
 ---
 
-Network metrics<br>
+HW #2<br>
 Released On 1404/01/17<br>
 HW #2 Thoery Soft Deadline : 1404/01/29 <br>
 HW #2 Thoery Hard Deadline : 1404/01/31 <br>

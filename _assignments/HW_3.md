@@ -13,7 +13,7 @@ due_event:
 hide_from_announcments: true
 ---
 
-Homework 3<br>
+HW #3<br>
 Released On 1404/02/10<br>
 HW #3 Soft Deadline : 1404/02/19 <br>
 HW #3 Hard Deadline : 1404/02/23 <br>

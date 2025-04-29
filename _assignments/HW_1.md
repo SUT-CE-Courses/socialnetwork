@@ -13,7 +13,7 @@ due_event:
 hide_from_announcments: true
 ---
 
-Introduction to networks<br>
+HW #1<br>
 Released On 1403/12/09<br>
 HW #1 Soft Deadline : 1403/12/27 <br>
 HW #1 Hard Deadline : 1403/12/29 <br>
