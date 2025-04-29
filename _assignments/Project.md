@@ -4,7 +4,7 @@ title: "Project"
 date: 1404-02-13T4:30:00+4:30
 description: Project Definition
 pdf: /static_files/assignments/Project/project.pdf
-topicSelection: https://forms.gle/vALX6L98xtizhhjU6
+attachment: https://forms.gle/vALX6L98xtizhhjU6
 # solutions: /static_files/assignments/HW3/HW3_Solution.zip
 due_event:
   type: due
