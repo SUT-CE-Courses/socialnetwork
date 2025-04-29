@@ -226,17 +226,17 @@ TA Classes will be held on Sundays from 12:30 till 13:30 in room 201 in CE depar
   <tr style="background-color: #2abb89;">
     <td>TA Session for Homework1</td>
     <td>1403/12/14</td>
-    <td>12:30 - 13:30 PM</td>
+    <td>12:30 - 13:30 AM</td>
   </tr>
   <tr style="background-color: #f7f1d3;">
     <td>TA Session for Homework1 part2</td>
     <td>1403/12/19</td>
-    <td>12:30 - 13:30 PM</td>
+    <td>12:30 - 13:30 AM</td>
   </tr>
   <tr style="background-color: #2abb89;">
     <td>TA Session for midterm</td>
     <td>1404/01/31</td>
-    <td>12:30 - 13:30 PM</td>
+    <td>12:30 - 13:30 AM</td>
   </tr>
     <tr style="background-color: #f7f1d3;">
     <td>TA Session for Homework2</td>
