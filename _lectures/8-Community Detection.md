@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 1403-07-02T8:00:00+4:30
-title: Motif, Isomorphism, Graphlets
+title: Community Detection & Clustering
 # tldr: "1403/12/21"
 thumbnail: /static_files/slides/7.png
 links:
