@@ -8,4 +8,4 @@ You can view the detailed grades for assignments, quizzes, research studies, mid
 
 Throughout the semester, until the end of the term, you can anonymously (or with your name) submit your feedback regarding assignments, TAs, teaching quality, class organization, slides, course content, difficulty level, or any other aspect of the course directly to the instructor via this form: [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScdOXjkAoe0atgQhRxjf_9sCMGm1wTcw69Uu0L7c_Y1diAiJg/viewform?usp=sharing).
 
-Please note that this course is identified by the course code **40642**.
+Course code: **40642**

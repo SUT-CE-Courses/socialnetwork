@@ -192,7 +192,7 @@ Research Studies will be held as the following table on **11:30** for half an ho
   </tr>
   <tr style="background-color: #f7f1d3;">
     <td>Research Study 3</td>
-    <td>1404/02/23 11:30-12 AM</td>
+    <td>1404/02/23 10:30-11 AM</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Research Study 4</td>
@@ -246,8 +246,8 @@ TA Classes will be held on Sundays from 12:30 till 13:30 in room 201 in CE depar
   </tr>
     <tr style="background-color: #2abb89;">
     <td>TA Session for Homework3</td>
-    <td>?</td>
-    <td>?</td>
+    <td>1404/02/28</td>
+    <td>12:30 - 13:30 AM</td>
   </tr>
   <tr style="background-color: #f7f1d3;">
     <td>TA Session for Homework4</td>
