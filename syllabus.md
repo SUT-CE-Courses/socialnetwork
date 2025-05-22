@@ -112,7 +112,7 @@ permalink: /syllabus/
     <tr style="background-color:#2abb89">
         <td>1404/02/23</td>
         <td>S19</td>
-        <td>Recommendation Systems</td>
+        <td>Network Construction, Inference, and Deconvolution</td>
     </tr>
     <tr style="background-color:#2abb89">
         <td>1404/02/28</td>
@@ -122,13 +122,13 @@ permalink: /syllabus/
     <tr style="background-color:#2abb89">
         <td>1404/02/30</td>
         <td>S21</td>
-        <td>Representation Learning on Graphs</td>
+        <td>Recommendation Systems</td>
     </tr>
     <tr style="background-color:#f7f1d3">
         <td>1404/03/04</td>
         <td>S22</td>
         <td rowspan="5">5</td>
-        <td>Network Construction, Inference, and Deconvolution</td>
+        <td>Representation Learning on Graphs</td>
     </tr>
     <tr style="background-color:#f7f1d3">
         <td>1404/03/06</td>
