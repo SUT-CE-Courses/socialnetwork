@@ -8,12 +8,12 @@ attachment: /static_files/assignments/HW4/HW4_Question.zip
 # solutions: /static_files/assignments/HW4/HW4_Solution.zip
 due_event:
   type: due
-  date: 1404-03-02
+  date: 1404-03-10
   description: "HW #4 deadline"
 hide_from_announcments: true
 ---
 
 HW #4<br>
-Released On 1404/03/03<br>
-HW #4 Soft Deadline : 1404/03/16 <br>
-HW #4 Hard Deadline : 1404/03/23 <br>
+Released On 1404/03/10<br>
+HW #4 Soft Deadline : 1404/03/23 <br>
+HW #4 Hard Deadline : 1404/03/30 <br>
