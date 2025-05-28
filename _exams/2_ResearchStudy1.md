@@ -6,7 +6,7 @@ thumbnail: /static_files/exam/rs1.png
 links:
   - url: /static_files/exam/Research Study/RS1/RS-1.rar
     name: Source
-  # - url: /static_files/exam/ReviewQuiz/solution.pdf
-  #   name: Solutions
+  - url: /static_files/exam/Research Study/RS1/RS1_Solution.pdf
+    name: Solutions
 hide_from_announcments: true
 ---
