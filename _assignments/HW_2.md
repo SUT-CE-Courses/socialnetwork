@@ -7,7 +7,7 @@ pdf: /static_files/assignments/HW2/HW2.pdf
 attachment: /static_files/assignments/HW2/HW2-dataset.gdf
 attachment2: /static_files/assignments/HW2/hamian-israeil.gdf
 # solutions: /static_files/assignments/HW2/HW2_Solution.zip
-solutions: /static_files/assignments/HW2/HW2_Theory_Solution.pdf
+solutions: /static_files/assignments/HW2/HW2_Solution.zip
 due_event:
   type: due
   date: 1404-02-05
