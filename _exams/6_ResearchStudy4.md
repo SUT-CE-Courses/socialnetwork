@@ -6,7 +6,7 @@ thumbnail: /static_files/exam/rs4.png
 links:
   - url: /static_files/exam/Research Study/RS4/nihms825755.pdf
     name: Source1
-    - url: /static_files/exam/Research Study/RS4/2501.03228v3.pdf
+  - url: /static_files/exam/Research Study/RS4/2501.03228v3.pdf
     name: Source2
   # - url: /static_files/exam/ReviewQuiz/solution.pdf
   #   name: Solutions
