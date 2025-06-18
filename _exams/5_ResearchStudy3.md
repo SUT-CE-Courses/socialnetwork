@@ -8,6 +8,8 @@ links:
     name: Source1
   - url: /static_files/exam/Research Study/RS3/2405.11922v1.pdf
     name: Source2-ExtraPoint
+  - url: /static_files/exam/Research Study/RS3/RS3_questions.pdf
+    name: Questions  
   - url: /static_files/exam/Research Study/RS3/RS3_Solution.pdf
     name: Solutions
 hide_from_announcments: true

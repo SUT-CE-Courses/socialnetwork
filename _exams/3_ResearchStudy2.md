@@ -6,6 +6,8 @@ thumbnail: /static_files/exam/rs2.png
 links:
   - url: /static_files/exam/Research Study/RS2/NeurIPS-2018-link-prediction-based-on-graph-neural-networks-Paper.pdf
     name: Source
+  - url: /static_files/exam/Research Study/RS2/RS2.pdf
+    name: Questions
   - url: /static_files/exam/Research Study/RS2/RS2_Solution.pdf
     name: Solutions
 hide_from_announcments: true
