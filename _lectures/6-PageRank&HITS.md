@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 1403-07-02T8:00:00+4:30
+date: 1403-07-06T8:00:00+4:30
 title: PageRank&HITS
 # tldr: "1403/12/19"
 thumbnail: /static_files/slides/6.png

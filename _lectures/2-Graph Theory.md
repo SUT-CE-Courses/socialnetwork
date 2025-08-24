@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 1403-07-01T8:00:00+4:30
+date: 1403-07-02T8:00:00+4:30
 title: Graph Theory
 # tldr: "1403/11/30"
 thumbnail: /static_files/slides/2.png
