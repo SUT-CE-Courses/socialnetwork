@@ -5,7 +5,7 @@ date: 1404-02-17T4:30:00+4:30
 description: Homework 3
 pdf: /static_files/assignments/HW3/HW3.pdf
 attachment: /static_files/assignments/HW3/HW3_Question.zip
-# solutions: /static_files/assignments/HW3/HW3_Solution.zip
+solutions: /static_files/assignments/HW3/HW3_Solution.pdf
 due_event:
   type: due
   date: 1404-03-02
