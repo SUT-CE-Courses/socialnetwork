@@ -17,5 +17,5 @@ Released On 1404/02/13<br>
 Select topic by students : 1404/02/19 [Topic Selection Form](https://forms.gle/vALX6L98xtizhhjU6) <br>
 Assign TA for each group by HeadTA : 1404/02/24 <br>
 Finalize baseline paper by each TA : 1404/04/06 <br>
-Project deadline : 1404/05/10 <br>
-Project delivery : 1404/05/12 <br>
+Project deadline : 1404/06/15 <br>
+Project delivery : 1404/06/17 <br>

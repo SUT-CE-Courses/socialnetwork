@@ -15,5 +15,5 @@ hide_from_announcments: true
 
 HW #4<br>
 Released On 1404/03/10<br>
-HW #4 Soft Deadline : 1404/03/23 <br>
-HW #4 Hard Deadline : 1404/03/30 <br>
+HW #4 Soft Deadline : 1404/06/05 <br>
+HW #4 Hard Deadline : 1404/06/12 <br>
